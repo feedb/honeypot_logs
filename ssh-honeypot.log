@@ -1,56 +1,71 @@
-     54 admin:admin
-     26 root:root
-     18 root:123456
-     16 root:12345
-     15 root:password
-     15 root:admin
-     15 root:1234
+     58 admin:admin
+     27 root:root
+     20 root:123456
+     19 root:12345
+     18 root:admin
+     18 root:1234
+     17 root:password
+     12 root:default
+     12 root:111111
+     12 pi:raspberry
      11 usuario:usuario
-     11 pi:raspberry
+     11 root:ubnt
+     11 root:123
+     11 root:!@
      10 test:test
      10 support:support
      10 root:welc0me
-     10 root:ubnt
+     10 root:system
      10 root:openelec
-     10 root:default
-     10 root:111111
+     10 root:nosoup4u
+     10 root:123456789
       9 user:user
       9 ubnt:ubnt
-      9 root:system
-      9 root:123
+      9 root:toor
+      9 root:qwerty
+      9 root:1q2w3e4r
+      9 root:123qwe
+      9 root:1234567890
+      9 root:12345678
       9 admin:123456
-      8 root:toor
-      8 root:qwerty
-      8 root:nosoup4u
-      8 root:123qwe
-      8 root:123456789
+      8 root:alpine
+      8 root:abc123
+      8 root:1qaz2wsx
+      8 root:1234567
+      8 root:123123
       8 admin:admin1234
       8 admin:1234
       7 user:123456
       7 ubuntu:ubuntu
       7 test:123456
       7 root:xmhdipc
-      7 root:alpine
-      7 root:abc123
-      7 root:1q2w3e4r
-      7 root:1234567890
-      7 root:12345678
-      7 root:!@
+      7 root:test
+      7 root:root123
+      7 root:pass
+      7 root:dreambox
+      7 root:admin123
+      7 root:abcd1234
+      7 root:666666
+      7 root:1qaz@WSX
+      7 root:1q2w3e
+      7 root:000000
       7 oracle:oracle
       7 ftpuser:ftpuser
       7 admin:manager
       6 vagrant:vagrant
       6 user:password
       6 root:waldo
-      6 root:test
-      6 root:root123
-      6 root:pass
+      6 root:!QAZ2wsx
+      6 root:p@ssw0rd
+      6 root:master
+      6 root:linux
+      6 root:letmein
+      6 root:dragon
+      6 root:cisco
       6 root:anko
-      6 root:666666
-      6 root:1qaz2wsx
-      6 root:1234567
-      6 root:123123
-      6 root:000000
+      6 root:admin1
+      6 root:1qazxsw2
+      6 root:1234qwer
       6 root:0000
       6 root:0
       6 admin:pfsense
@@ -64,21 +79,30 @@
       5 test:12345
       5 test:123
       5 root:Zte521
+      5 root:uClinux
+      5 root:test123
       5 root:seiko2005
-      5 root:master
-      5 root:linux
-      5 root:letmein
-      5 root:dreambox
-      5 root:dragon
-      5 root:cisco
+      5 root:qwe123
+      5 root:qazwsx
+      5 root:public
+      5 root:password123
+      5 root:Passw0rd
+      5 root:passw0rd
+      5 root:nimda
+      5 root:manager
+      5 root:changeme
+      5 root:centos
+      5 root:calvin
       5 root:admintrup
-      5 root:admin123
-      5 root:admin1
-      5 root:abcd1234
+      5 root:abc123!@#
+      5 root:a123456
+      5 root:a
       5 root:88888888
-      5 root:1qazxsw2
-      5 root:1qaz@WSX
-      5 root:1q2w3e
+      5 root:31415926
+      5 root:1q2w3e4r5t
+      5 root:123.com
+      5 root:123321
+      5 pi:raspberryraspberry993311
       5 osmc:osmc
       5 mysql:123456
       5 ftp:ftp123
@@ -98,37 +122,45 @@
       4 test:1234
       4 student:student
       4 service:service
-      4 root:uClinux
+      4 root:user
       4 root:trustno1
-      4 root:test123
+      4 root:rpitc
       4 root:rootroot
       4 root:redhat
+      4 root:raspberry
       4 root:qwertyuiop
-      4 root:qazwsx
-      4 root:!QAZ2wsx
-      4 root:public
-      4 root:p@ssw0rd
+      4 root:q1w2e3r4t5
       4 root:pi
       4 root:pfsense
       4 root:passwd
-      4 root:passw0rd
-      4 root:nimda
       4 root:monkey
-      4 root:manager
-      4 root:centos
-      4 root:calvin
+      4 root:memory
+      4 root:linux123
+      4 root:google
       4 root:asdf1234
-      4 root:abc123!@#
-      4 root:a123456
-      4 root:a
-      4 root:31415926
-      4 root:1q2w3e4r5t
+      4 root:asdf
+      4 root:asd12345
+      4 root:administrator
+      4 root:adminadmin
+      4 root:admin12345
+      4 root:Admin123!
+      4 root:abcd@123
+      4 root:abc123456
+      4 root:987654321
+      4 root:654321
+      4 root:1qaz3edc
+      4 root:1q2w3e4r5t6y
       4 root:159753
-      4 root:123.com
-      4 root:1234qwer
-      4 root:123321
+      4 root:12qwaszx
+      4 root:123qweasd
+      4 root:123qaz
+      4 root:123654
+      4 root:123123123
+      4 root:11111
+      4 root:1029384756
+      4 root:1
+      4 root:00000
       4 postgres:postgres
-      4 pi:raspberryraspberry993311
       4 operator:operator
       4 guest:guest
       4 ftpuser:123456
@@ -165,65 +197,155 @@
       3 root:welcome1
       3 root:welcome
       3 root:vagrant
-      3 root:user
       3 root:ubuntu
       3 root:synopass
+      3 root:support
       3 root:super
       3 root:server
       3 root:samsung
-      3 root:rpitc
       3 root:rootpass
       3 root:rootme
       3 root:root1234
       3 root:root1
-      3 root:raspberry
       3 root:qwertyu
       3 root:qwerty123
-      3 root:qwe123
-      3 root:q1w2e3r4t5
+      3 root:qweasdzxc
+      3 root:qweasd123
+      3 root:!QAZ@WSX
+      3 root:!QAZ1qaz
+      3 root:q1w2e3r4
       3 root:p@$$w0rd
-      3 root:password123
-      3 root:Passw0rd
+      3 root:p@ssw0rd1
+      3 root:password1234
+      3 root:password1
+      3 root:Passw0rd1234
       3 root:p
+      3 root:oracle
       3 root:operator
-      3 root:memory
+      3 root:o12nu27
+      3 root:newroot
+      3 root:motorola
+      3 root:monitor
+      3 root:meiyoumima
+      3 root:masterkey
+      3 root:master123
+      3 root:loveyou
       3 root:live
-      3 root:linux123
+      3 root:lenovo
+      3 root:lennon
+      3 root:lalala
+      3 root:jupiter
+      3 root:joebob
+      3 root:internet
+      3 root:huawei123
+      3 root:huawei
       3 root:hello
-      3 root:google
+      3 root:guest
+      3 root:genesis
+      3 root:gateway
       3 root:football
-      3 root:changeme
+      3 root:firewall
+      3 root:driver
+      3 root:dnflskfk
+      3 root:data
+      3 root:daniel
+      3 root:computer
+      3 root:cisco123
+      3 root:changeme123
+      3 root:centos6svm
       3 root:casa
+      3 root:carlos
+      3 root:caonima
+      3 root:CactiEZ
+      3 root:avonline
       3 root:athens
-      3 root:asdf
-      3 root:asd12345
+      3 root:asdasd
+      3 root:asd123456
+      3 root:apple
+      3 root:anonymous
+      3 root:alpin
+      3 root:adrian
       3 root:adminpassword
-      3 root:administrator
-      3 root:adminadmin
+      3 root:admin@admin
       3 root:admin@12345
-      3 root:admin12345
+      3 root:admin12342234
       3 root:admin1234
-      3 root:Admin123!
+      3 root:Admin123
+      3 root:admin123$%^
+      3 root:admin@123
+      3 root:admin_123
+      3 root:admin001
       3 root:access
-      3 root:abcd@123
-      3 root:abc123456
-      3 root:987654321
+      3 root:abcdabcd
+      3 root:abcd123456
+      3 root:abc1234
+      3 root:Abc123
+      3 root:abc123!
+      3 root:abc@123
+      3 root:aaaaaa
+      3 root:aaa
+      3 root:aa123456
+      3 root:a1b2c3d4
+      3 root:a162a
+      3 root:909090
+      3 root:888888
+      3 root:88123456
+      3 root:8520
+      3 root:789789
+      3 root:789456
       3 root:7777777
-      3 root:654321
+      3 root:555888
+      3 root:521521521
+      3 root:5201314
+      3 root:4rfv$RFV
+      3 root:456123
+      3 root:3edc#EDC
+      3 root:3.1415926
+      3 root:2wsx3edc
+      3 root:2600
+      3 root:225588
+      3 root:1qazXSW@
+      3 root:1qaz@WSX3edc$RFV
       3 root:1qaz!QAZ
-      3 root:1qaz3edc
-      3 root:1q2w3e4r5t6y
-      3 root:12qwaszx
-      3 root:123qaz
-      3 root:123654
-      3 root:123123123
+      3 root:1q1q1w1e
+      3 root:1a2b3c4d
+      3 root:1a2b3c
+      3 root:147852369
+      3 root:147258
+      3 root:123qweasdzxc
+      3 root:123qwe123
+      3 root:123qaz!@#
+      3 root:123asd
+      3 root:123@abc
+      3 root:123abc
+      3 root:123654789
+      3 root:12345qwert
+      3 root:1234567a
+      3 root:12345678910
+      3 root:@123456
+      3 root:1234554321
+      3 root:12344321
+      3 root:12341234
+      3 root:123.321
+      3 root:123@123
+      3 root:12301230
+      3 root:12121212
       3 root:121212
-      3 root:11111
-      3 root:1029384756
-      3 root:1
-      3 root:00000
+      3 root:1212
+      3 root:1202091
+      3 root:1122334455
+      3 root:11223344
+      3 root:112233
+      3 root:11111111
+      3 root:102030
+      3 root:10000
+      3 root:01234567
+      3 root:010203
+      3 root:00000000
+      3 root:!@#$%^
       3 public:public
       3 prueba:prueba
+      3 oracle:1234
       3 nobody:nobody
       3 nagios:nagios
       3 mysql:mysql
@@ -234,6 +356,7 @@
       3 hadoop:hadoop
       3 git:git
       3 ftpuser:asteriskftp
+      3 ftpuser:1234
       3 ftp:ftpuser
       3 developer:developer
       3 demo:demo
@@ -359,7 +482,6 @@
       2 root:test0000
       2 root:telnet
       2 root:t0talc0ntr0l4!
-      2 root:support
       2 root:superuser
       2 root:senha123
       2 root:sebastian
@@ -372,206 +494,502 @@
       2 root:qwerty1234
       2 root:Qwerqwer1234
       2 root:QWElong123
-      2 root:qweasdzxc
-      2 root:qweasd123
+      2 root:qweasd
       2 root:qwe123qwe
+      2 root:qwe123!@#
       2 root:qwe
       2 root:qwaszx12
+      2 root:qqq123
+      2 root:qqaazz
+      2 root:qq313994716.
+      2 root:qq123123
       2 root:qd8899xyz
       2 root:!QAZXSW@
+      2 root:qazxsw
       2 root:qazwsxedcrfv
+      2 root:qazwsxedc123
       2 root:qazwsxedc
       2 root:qazwsx123456
+      2 root:qazwsx12
+      2 root:qazqaz
+      2 root:qaz888
       2 root:!QAZ2wsx#EDC
-      2 root:!QAZ1qaz
-      2 root:q1w2e3r4
+      2 root:qaz123
+      2 root:qawsedrf
+      2 root:q1w2e3r4t5y6
+      2 root:q1w2e3
+      2 root:q123456
+      2 root:P@$$word
       2 root:P@ssword123
       2 root:P@ssword1
       2 root:p@ssword
-      2 root:p@ssw0rd1
+      2 root:P@ssw0rd1234
+      2 root:P@ssw0rd1
+      2 root:P@ssw0rd
+      2 root:power
+      2 root:poiuyt
+      2 root:peter
       2 root:permit
+      2 root:pa$$word1
       2 root:Pa$$w0rd
       2 root:password12345
-      2 root:password1234
       2 root:Password123
-      2 root:password1
+      2 root:Password1
+      2 root:password1!
       2 root:Password01
-      2 root:Passw0rd1234
+      2 root:Password!
+      2 root:Password
+      2 root:passwd123
+      2 root:passw0rd123
+      2 root:Passw0rd1
       2 root:passw0rd1
       2 root:passport
       2 root:Pass1234
       2 root:pass1234
+      2 root:pass123
       2 root:pamela
+      2 root:pa55w0rd
       2 root:p@55word
       2 root:p@55w0rd
       2 root:p4ssw0rd
+      2 root:okokok
+      2 root:ok
       2 root:oelinux123
-      2 root:o12nu27
+      2 root:o2UpVWW1R0
+      2 root:null
+      2 root:nthao
+      2 root:@n!md@mP#$@?$&#@!#mTadm!n$@
       2 root:nihao123!
-      2 root:newroot
+      2 root:nfvip.com
       2 root:newpassword
+      2 root:netstatan
+      2 root:Net4.0fordn1on@#$%^&
+      2 root:nbex
       2 root:n
+      2 root:mysql
+      2 root:mylovehack
       2 root:muiema
-      2 root:motorola
-      2 root:monitor
+      2 root:msnttcn
       2 root:mohammad
-      2 root:meiyoumima
-      2 root:masterkey
-      2 root:master123
-      2 root:loveyou
+      2 root:mm1237
+      2 root:mings$%^&
+      2 root:maya0769com
+      2 root:maya0769
+      2 root:matlhtxg
+      2 root:mario
+      2 root:manager1
+      2 root:lywl
+      2 root:luyouqi
+      2 root:ltnkhtxg
+      2 root:love
       2 root:logitech
       2 root:login
       2 root:liverpool
-      2 root:lenovo
-      2 root:lennon
-      2 root:lalala
+      2 root:leo_zj2010
+      2 root:leaber
+      2 root:lanyue
       2 root:l3tm3in
+      2 root:koxr123445
+      2 root:koxr
       2 root:kingdee
       2 root:kenwood
-      2 root:jupiter
-      2 root:joebob
+      2 root:jywl8888
+      2 root:jxkj
+      2 root:jubuwzkcseo1
+      2 root:jtnhua
+      2 root:jtanfet
+      2 root:Jquery$%^&
+      2 root:joytbc
+      2 root:jjwlkj
+      2 root:jjj!@#$%^&
+      2 root:jj@123456
+      2 root:jiugui
+      2 root:jiahuo1111
+      2 root:jerry
       2 root:jenny
+      2 root:jackz
+      2 root:j123445
+      2 root:istrator
       2 root:iphone
-      2 root:internet
+      2 root:insecure
       2 root:iJ93MnFj4VnWf0sA78gCx
       2 root:iDirect
-      2 root:huawei123
-      2 root:huawei
+      2 root:idcidc
+      2 root:idcfo123
+      2 root:idcez
+      2 root:idc123456
+      2 root:idc123
+      2 root:idc!@#
+      2 root:hztbc2008
+      2 root:hztbc2007
+      2 root:hzhostcom
+      2 root:hwiptv
+      2 root:hucgynxz!&#IT
+      2 root:hubengnet
+      2 root:huaweicncnet
+      2 root:Huawei@123
+      2 root:huawei@123
+      2 root:huawe@123
+      2 root:huangbtng
+      2 root:huangbtn
+      2 root:hu
+      2 root:htxgwx
+      2 root:htxgnet
       2 root:hlL0mlNAabiR
-      2 root:guest
-      2 root:genesis
-      2 root:gateway
+      2 root:hld2013
+      2 root:hezhonghut
+      2 root:hatfeng
+      2 root:hangzhoutbc
+      2 root:hangzhou
+      2 root:h123445
+      2 root:gould
+      2 root:goodluck
+      2 root:gmtbc
+      2 root:gmcom
+      2 root:ghzxcvbn
+      2 root:ghtxgnet
+      2 root:gfbsa
+      2 root:gd123456
+      2 root:gaojte
+      2 root:g0df0r3v3r
+      2 root:ftp123
       2 root:freedom
-      2 root:firewall
+      2 root:frbgtnhymju
+      2 root:fong
+      2 root:flfthdxk
+      2 root:fghzxcvbn
+      2 root:fghjklqwe
+      2 root:fbsazxcvqwer
+      2 root:fbsa
       2 root:excalibur
+      2 root:!@#ewqasd
+      2 root:!@#ewq
+      2 root:ertyutop
+      2 root:ertyasb
+      2 root:enkj!@#$%^&
+      2 root:energy
+      2 root:ejgongfan
+      2 root:ee48900851
+      2 root:ebcwsxqaz
+      2 root:e963com
       2 root:DUP
-      2 root:driver
-      2 root:dnflskfk
       2 root:Dinamo79buc
+      2 root:difficulty
+      2 root:dg10!#%#%
       2 root:dexter
       2 root:deepak
+      2 root:ddd!@#$%^&
       2 root:daulamuie
-      2 root:data
       2 root:darwin
-      2 root:daniel
+      2 root:danny
+      2 root:danabc123
       2 root:dabestmouse
-      2 root:computer
-      2 root:cisco123
-      2 root:changeme123
-      2 root:centos6svm
+      2 root:czbhrxgnet
+      2 root:czb
+      2 root:cyidc!@#
+      2 root:cuktu123
+      2 root:crfvtgb
+      2 root:Crack8
+      2 root:cqtnbex
+      2 root:cqsbwhtxgnet
+      2 root:cqsbw
+      2 root:cqly
+      2 root:cqlanyanwl
+      2 root:cqlanyan
+      2 root:contact
+      2 root:command
+      2 root:cnktu654321
+      2 root:cnktu123654
+      2 root:cnktu123445
+      2 root:cnktu123321
+      2 root:cnbns
+      2 root:cloudmind.cn
+      2 root:clone
+      2 root:chtnatbcnetcn
+      2 root:chtnatbcnet
+      2 root:chtnatbccom
+      2 root:chtnatbccn
+      2 root:chtnatbc123445
+      2 root:chtnatbc
+      2 root:chtnatb
+      2 root:chtnamobtle
+      2 root:chtnamo
+      2 root:chtnafunet
+      2 root:chtnafu123
+      2 root:chtnafu
+      2 root:chtna35tbc
+      2 root:chtna35
+      2 root:chtna2007tbc
+      2 root:chtna2007
+      2 root:chtna123qwe
+      2 root:chtna123
+      2 root:chtantbc2007
+      2 root:chinaidc!@#$%^&
+      2 root:chenltng
+      2 root:chenltn
+      2 root:chat6cn
+      2 root:chat6123445
+      2 root:chat6
+      2 root:chanshecom
+      2 root:Changeme123
+      2 root:changeme@123
+      2 root:cctv
+      2 root:cchtxgnet
+      2 root:cbe3
       2 root:carmen
-      2 root:carlos
-      2 root:caonima
-      2 root:CactiEZ
+      2 root:caontma
+      2 root:caonimabi
+      2 root:caesar
+      2 root:c3net
+      2 root:c30ce61
+      2 root:bworb
+      2 root:btlecom
+      2 root:bserver
       2 root:bois
       2 root:BMWG&$sg82%*H$*89
+      2 root:bj123445
+      2 root:bb123445
+      2 root:baidu.com
       2 root:azertyuiop
       2 root:azerty
-      2 root:avonline
-      2 root:asdasd
-      2 root:asd123456
-      2 root:apple
-      2 root:anonymous
-      2 root:alpin
+      2 root:autoemar
+      2 root:atavism
+      2 root:asterisk
+      2 root:asdfg
+      2 root:Asdf13579#
+      2 root:asd1234567
+      2 root:asd.123
+      2 root:asbfghjklqw
+      2 root:asbfghjkl
+      2 root:asbfghjk
+      2 root:asbfg
+      2 root:asbf
+      2 root:aq1sw2
+      2 root:anxue03105
+      2 root:ans#150
+      2 root:angel123
+      2 root:amigo
       2 root:allan
-      2 root:adrian
+      2 root:admintest
       2 root:adminpass
-      2 root:admin@admin
+      2 root:adminn
+      2 root:admin888
+      2 root:admin321@@@
+      2 root:admin2
+      2 root:admin123456789
+      2 root:admin12345678
+      2 root:admin1234567
+      2 root:Admin123456
+      2 root:admin123456#
       2 root:admin123456
-      2 root:admin12342234
-      2 root:Admin123
-      2 root:admin123$%^
-      2 root:admin@123
-      2 root:admin_123
+      2 root:admin_1234
+      2 root:Admin123!@#
+      2 root:Admin@123
+      2 root:admin123#
+      2 root:admin123!@#
       2 root:admin01
-      2 root:admin001
+      2 root:admin!@#$%^&
+      2 root:admin!@
+      2 root:admin_!@#
+      2 root:!@#admin
+      2 root:adcdefg
+      2 root:abmtn9
+      2 root:abmtn89
+      2 root:abmtn12
       2 root:abcdefg
-      2 root:abcdabcd
-      2 root:abcd123456
-      2 root:abc1234
-      2 root:abc123!
-      2 root:abc@123
+      2 root:Abcd1234
+      2 root:abcb
+      2 root:abc1234567
+      2 root:abc@123456
       2 root:abc.123
-      2 root:aaaaaa
-      2 root:aaa
-      2 root:aa123456
-      2 root:a1b2c3d4
+      2 root:!@#abc123
+      2 root:aasa
+      2 root:aaasa
+      2 root:aaaasa
+      2 root:aaaaasa
+      2 root:a654321
+      2 root:a1s2d3f4
+      2 root:a1b2c3d4e5
       2 root:a1b2c3
-      2 root:a162a
+      2 root:a123654
+      2 root:a1234567
       2 root:999999
-      2 root:909090
+      2 root:998877
+      2 root:990sf.net
+      2 root:963963369
+      2 root:963852741
+      2 root:9630
       2 root:8owmpiyddyo
-      2 root:888888
-      2 root:88123456
+      2 root:88888sa
+      2 root:888888888
+      2 root:8877
+      2 root:8812345
+      2 root:88122345
+      2 root:8787
       2 root:852456
-      2 root:8520
-      2 root:789789
-      2 root:789456
+      2 root:811abmtn
+      2 root:7x24idc
+      2 root:7x24.com
+      2 root:7iu45Perc887pW12c76Ecik88
+      2 root:7788aa
+      2 root:777sa
+      2 root:777777777
+      2 root:77777777
+      2 root:7766
+      2 root:7410
+      2 root:666666666
+      2 root:662766
+      2 root:65432!
+      2 root:654123
+      2 root:60000
       2 root:5up
-      2 root:555888
+      2 root:56789sa
+      2 root:!@#$5678
+      2 root:567%^&
+      2 root:55558888
+      2 root:5555588888
+      2 root:555555555
       2 root:55555
-      2 root:521521521
-      2 root:5201314
-      2 root:4rfv$RFV
-      2 root:456123
-      2 root:3edc#EDC
+      2 root:52xxxcn
+      2 root:50000
+      2 root:!@#456
+      2 root:444444444
+      2 root:400tbc
+      2 root:40000
+      2 root:3IIS
+      2 root:369258147
+      2 root:35tbc
+      2 root:35com
+      2 root:357159
+      2 root:336699336699
+      2 root:333333333
       2 root:33333
+      2 root:332526qq
       2 root:321321
-      2 root:3.1415926
-      2 root:2wsx3edc
-      2 root:2600
-      2 root:225588
+      2 root:321!@#
+      2 root:!@#321
+      2 root:321
+      2 root:30000
+      2 root:2wsx#EDC
+      2 root:258258
+      2 root:2468
+      2 root:!2#4%6&
+      2 root:!2#4%6
+      2 root:2250804520
+      2 root:222222222
+      2 root:21vianet
+      2 root:20000
+      2 root:1z2x3c4v
+      2 root:1z2x3c
+      2 root:1w2q3e
+      2 root:1sa
       2 root:1root
-      2 root:1qazXSW@
-      2 root:1qaz@WSX3edc$RFV
+      2 root:1qaz@wsx
+      2 root:1qazse4
+      2 root:1qaz#EDC
       2 root:1qaz3edc5tgb
       2 root:1qaz2wsx#EDC
-      2 root:1q1q1w1e
-      2 root:1a2b3c4d
-      2 root:1a2b3c
+      2 root:1qaz2wsx3ebc4rfv
+      2 root:1qaz2wsx3
+      2 root:1qaz2wsx1
+      2 root:1QaZ2WsX
+      2 root:1qaz2wsx!@#
+      2 root:1qaz2ws
+      2 root:1q2w3e4r5t6y7u8i9o
+      2 root:1q2w3e,.
+      2 root:1q2w
+      2 root:1q2a3z
+      2 root:1q1q1q
+      2 root:1a2s3d4f
+      2 root:1985121
+      2 root:1983sa
       2 root:1970
+      2 root:18602611
+      2 root:177@dg1
+      2 root:163@zq163&
       2 root:163ns
       2 root:159357
       2 root:147963
-      2 root:147852369
-      2 root:147258
+      2 root:147369
       2 root:147147
       2 root:142536
+      2 root:1380138000
       2 root:13579
-      2 root:123qweasdzxc
-      2 root:123qweasd
-      2 root:123qwe123
-      2 root:123qaz!@#
-      2 root:123asd
-      2 root:123@abc
-      2 root:123abc
-      2 root:123654789
-      2 root:12345qwert
+      2 root:12sa
+      2 root:123vvv
+      2 root:123sa
+      2 root:123qwer
+      2 root:123QWE
+      2 root:123qwe!@#
+      2 root:123.qwe
+      2 root:123!@#qwe
+      2 root:123mysql
+      2 root:123@ASD
+      2 root:!@#123abc
+      2 root:123789m
+      2 root:123654b
+      2 root:123567
+      2 root:1234sa
+      2 root:1234qwera
+      2 root:1234asdf
+      2 root:123465
       2 root:123456qwerty
-      2 root:1234567a
-      2 root:12345678910
-      2 root:@123456
-      2 root:1234554321
-      2 root:12344321
-      2 root:12341234
-      2 root:123.321
+      2 root:123456qw4
+      2 root:123456q
+      2 root:123456gf
+      2 root:123456admzxcvbnm!@#$%^&
+      2 root:123456aa
+      2 root:1234567j
+      2 root:12345678gf
+      2 root:1234567890jgf
+      2 root:1234567!@#$%^&
+      2 root:123456!@#$%^
+      2 root:123456!@#
+      2 root:!@#123456!@#
+      2 root:!@#123456
+      2 root:1234457
+      2 root:1234000
+      2 root:1234%^&*
+      2 root:!@#1234
+      2 root:1233333333
+      2 root:123333
+      2 root:123123sa
       2 root:123123aaa
-      2 root:123@123
-      2 root:12301230
-      2 root:12121212
-      2 root:1212
-      2 root:1202091
-      2 root:1122334455
-      2 root:11223344
-      2 root:112233
-      2 root:11111111
-      2 root:102030
+      2 root:123.0
+      2 root:123$%^&
+      2 root:123!@#
+      2 root:#@!123
+      2 root:!@#123
+      2 root:1222222222
+      2 root:11sa
+      2 root:114477114477
+      2 root:1+1=2
+      2 root:112
+      2 root:1111sa
+      2 root:111111111
+      2 root:1111
+      2 root:!!!111
+      2 root:110120112
+      2 root:110110
       2 root:100100
-      2 root:10000
-      2 root:01234567
-      2 root:010203
-      2 root:00000000
-      2 root:!@#$%^
+      2 root:0p9o8t
+      2 root:0p9o8i7u
+      2 root:0512tbc
+      2 root:0123456789!qaz
+      2 root:0123456
+      2 root:0.1234
+      2 root:01230123
+      2 root:0.123
+      2 root:0123
+      2 root:0000000000
+      2 root:000000000
+      2 root:@#$%&
+      2 root:@#$%^&
+      2 root:@!
+      2 root:!@#$%^&
+      2 root:!@#!@#
+      2 root:!
+      2 root:~!@#$%^&
       2 root:
       2 !root:
       2 raspberry:admin
@@ -590,7 +1008,6 @@
       2 oracle:admin
       2 oracle:123456
       2 oracle:12345
-      2 oracle:1234
       2 oracle:123
       2 operator:welcome
       2 operator:operator123
@@ -635,7 +1052,6 @@
       2 ftpuser:admin
       2 ftp_user:123456
       2 ftpuser:12345
-      2 ftpuser:1234
       2 ftpuser:123
       2 ftptest:ftptest
       2 ftp:test
@@ -769,6 +1185,7 @@
       1 zimbra:Abc123
       1 zimbra:1234
       1 zimbra:123123
+      1 zimbra:111111
       1 zabbix:zabbix123
       1 zabbix:test
       1 zabbix:Qwerty
@@ -783,6 +1200,7 @@
       1 zabbix:111111
       1 xguest:xguest
       1 www:www@1234
+      1 www:www
       1 www-data:zaq12wsx
       1 www-data:www-data
       1 www-data:qwerty
@@ -824,6 +1242,7 @@
       1 User:Password
       1 user:nopass
       1 user:football
+      1 user:Abc123
       1 user:987654321
       1 user1:password
       1 user1:nopass
@@ -1047,6 +1466,7 @@
       1 root:www.263.com
       1 root:wwe12345
       1 root:ww123.0
+      1 root:wubao
       1 root:wtfguynet
       1 root:wsxzaq12
       1 root:wsxcde32
@@ -1590,6 +2010,7 @@
       1 root:root01
       1 root:root001
       1 root:root00
+      1 root:root!@
       1 root:@root
       1 root:.root.
       1 root:ronald0
@@ -1729,47 +2150,51 @@
       1 root:qweasdzxc..
       1 root:qwe!@#asd!@#zxc
       1 root:QWEasdQWE
-      1 root:qweasd
+      1 root:qweasb
+      1 root:qwe456321
       1 root:qwe123QWE!@
+      1 root:qwe123asd456
       1 root:QWE123ASD123ZXC
       1 root:qwe123asd123
       1 root:qwe123asd
       1 root:qwe123456
       1 root:qwe12345
+      1 root:qwe1231a
       1 root:qwe123123
       1 root:QWE123!!
       1 root:qwe123..
-      1 root:qwe123!@#
       1 root:qwe123!
       1 root:qwe12
+      1 root:Q!W@E
       1 root:qwaszx123
       1 root:qwas
       1 root:!Q@W3e4r
+      1 root:!Q@W
       1 root:!@qw
       1 root:quit
       1 root:?quickserv@min123
       1 root:quest
       1 root:quanta
       1 root:quality123
+      1 root:qttbc
       1 root:qsxesz
       1 root:qrwe1423
+      1 root:qqqwww
       1 root:qqqqqq
       1 root:qqqqq1
       1 root:qqqq1111
       1 root:QQQ123456
-      1 root:qqq123
       1 root:qqq111
       1 root:qqq
+      1 root:qqpp
       1 root:!!QQAAZZ!!^*$%^
       1 root:!!QQAAZZ
-      1 root:qqaazz
-      1 root:qq313994716.
       1 root:qq123456789
       1 root:qq123456
       1 root:qq1234
-      1 root:qq123123
       1 root:qpwoeiruty
       1 root:qpalzm
+      1 root:qimo118com
       1 root:!!qdjtsf8899
       1 root:Qd-1331##
       1 root:qazzaq
@@ -1779,57 +2204,56 @@
       1 root:!qazxsw2
       1 root:qazxsw123
       1 root:!qazxsw
-      1 root:qazxsw
       1 root:!QAZXCDE#@WS
       1 root:qazwsxedcrfvtgb
       1 root:qazwsxedc123456
-      1 root:qazwsxedc123
       1 root:qazwsxedc1
+      1 root:qazwsxebcsa
+      1 root:qazwsxebc
+      1 root:qazwsxeb
+      1 root:qazwsx888
       1 root:QAZwsx123
-      1 root:qazwsx12
-      1 root:!QAZ@WSX
       1 root:QAZ@wsx
+      1 root:!QAZ@wsx
       1 root:qazwsx!!!
+      1 root:qazqazqazsa
       1 root:qazqazqaz
-      1 root:qazqaz
       1 root:qazpl,wsxokm
       1 root:qazpl,okm
-      1 root:qaz888
       1 root:qaz520wsx
       1 root:!QAZ2wsx#EDC4rfv%TGB
+      1 root:!qaz2wsx#edc
       1 root:!QAZ2wsx3edc
       1 root:QAZ2wsx
+      1 root:!qaz2wsx
       1 root:qaz13.14
       1 root:qaz12wsx
       1 root:qaz123wsx456
       1 root:QAZ1231qaz!
       1 root:qaz123$
-      1 root:qaz123
       1 root:QAZ!@#
       1 root:!QAZ
+      1 root:!qaz
       1 root:qaz
       1 root:qawsedrftgyh
-      1 root:qawsedrf
       1 root:qawsed
       1 root:!QA2ws#ED
       1 root:!qa
       1 root:!Q2w#E4r
       1 root:q2w3e4r5
       1 root:q1w2e3r4t5y6u7
-      1 root:q1w2e3r4t5y6
       1 root:@q1w2e3r4@
       1 root:q1w2e3q1w2e3
       1 root:q1w2e3$%^
-      1 root:q1w2e3
       1 root:q1q2q3q4
       1 root:q1q1q1q1
       1 root:q12we34r
-      1 root:q123456
       1 root:q123.0
+      1 root:q111111111
       1 root:pwpw2012
-      1 root:P@$$word
       1 root:p@$$w0rd1
       1 root:p@$$w0rd0
+      1 root:P@$$w0rd
       1 root:pussy
       1 root:puppeteer
       1 root:pup87Nog$
@@ -1841,19 +2265,20 @@
       1 root:P@SVVORD
       1 root:P@ssword12
       1 root:P@ssword1!
+      1 root:P@ssword
       1 root:P@ssw19rd
       1 root:P@ssw0rds
       1 root:P@ssw0rdP@ssw0rd
       1 root:p@ssw0rdmns
+      1 root:P@ssw0rd3
       1 root:p@ssw0rd2
-      1 root:P@ssw0rd1234
+      1 root:P@ssw0rd123
       1 root:p@ssw0rd123
       1 root:P@ssw0rd1!
-      1 root:P@ssw0rd1
       1 root:p@ssw0rd0
+      1 root:P@ssw0rd!@#$
       1 root:P@ssw0rd!@#
       1 root:P@ssw0rd!
-      1 root:P@ssw0rd
       1 root:proud
       1 root:prometheus
       1 root:promac
@@ -1870,11 +2295,14 @@
       1 root:ppp123
       1 root:ppp
       1 root:ppc
+      1 root:powerv
       1 root:powerpc
+      1 root:power123654
+      1 root:power123445
       1 root:power1234
       1 root:power123.0
+      1 root:power123
       1 root:power12
-      1 root:power
       1 root:potatohead
       1 root:potato123
       1 root:potato
@@ -1886,11 +2314,11 @@
       1 root:pony123
       1 root:ponorogo
       1 root:polska
+      1 root:pollyO0O!#%&
       1 root:police
       1 root:polarbear
       1 root:poiuytrewq1234567890
       1 root:poiuytrewq
-      1 root:poiuyt
       1 root:poiuy67890
       1 root:poire
       1 root:poi098
@@ -1918,14 +2346,15 @@
       1 root:picasso
       1 root:picapica
       1 root:phuong
+      1 root:photos
       1 root:phoenix
       1 root:philipp
       1 root:pharmacy
-      1 root:peter
       1 root:person
       1 root:perry
       1 root:perfect
       1 root:per123
+      1 root:pepper
       1 root:peoples
       1 root:penis123
       1 root:penis
@@ -1935,7 +2364,6 @@
       1 root:pearson
       1 root:pc
       1 root:pbxk1064
-      1 root:pa$$word1
       1 root:Pa$$word
       1 root:pa$$word
       1 root:pa$word
@@ -1952,6 +2380,7 @@
       1 root:passwordtits
       1 root:password888
       1 root:password76
+      1 root:password321
       1 root:password210
       1 root:password2014
       1 root:password2
@@ -1961,34 +2390,36 @@
       1 root:password.123
       1 root:Password12
       1 root:password12
+      1 root:password1111
+      1 root:password110
       1 root:Password1!
       1 root:password1.
-      1 root:password1!
       1 root:password@1
       1 root:password.1
       1 root:Password01!
+      1 root:password0000
       1 root:Password0
       1 root:PaSsWoRd
-      1 root:Password!
-      1 root:Password
+      1 root:PassWord
+      1 root:password!@#
+      1 root:passworb1314
+      1 root:passworb1234
+      1 root:passworb
       1 root:passwdroot
       1 root:passwd999
       1 root:passwd321
-      1 root:passwd123
       1 root:passwd1
       1 root:passwd0
       1 root:Passw0rd123
-      1 root:passw0rd123
-      1 root:Passw0rd1
       1 root:Passw0rd01
       1 root:passw0rd0
       1 root:Passw0rd!
       1 root:passroot
       1 root:pass999
+      1 root:pass12345
       1 root:Pass@1234
       1 root:pass123$
       1 root:pass@123
-      1 root:pass123
       1 root:pass0000
       1 root:pasparoot222
       1 root:pascal123
@@ -2015,7 +2446,6 @@
       1 root:pa5sw0rd!
       1 root:pa55word
       1 root:Pa55w0rd!
-      1 root:pa55w0rd
       1 root:p8ssw0rd
       1 root:P@55word
       1 root:p@55w0rd1
@@ -2025,6 +2455,7 @@
       1 root:p4$$w0rd
       1 root:P4ssword0
       1 root:P4sswOrd
+      1 root:p4sswOrd
       1 root:p4ssw0rd1
       1 root:P455word
       1 root:p455w0rd1
@@ -2037,6 +2468,7 @@
       1 root:P@
       1 root:osiris
       1 root:oscar
+      1 root:os10+ZTE
       1 root:orchid
       1 root:orange1
       1 root:orange
@@ -2046,7 +2478,7 @@
       1 root:oracle123456
       1 root:oracle123
       1 root:oracle11g
-      1 root:oracle
+      1 root:oracle1
       1 root:ora
       1 root:optimus
       1 root:opt-D3iN
@@ -2056,7 +2488,9 @@
       1 root:openssh!execute
       1 root:opensource
       1 root:opennow
+      1 root:opendoor
       1 root:op3nd00r
+      1 root:only
       1 root:one4all
       1 root:one
       1 root:omygod
@@ -2067,24 +2501,28 @@
       1 root:olteanuolteanu
       1 root:oliver
       1 root:ola
-      1 root:okokok
-      1 root:ok
+      1 root:okzj123445
+      1 root:okzj123
+      1 root:okxr654321
+      1 root:okxr123123
+      1 root:okxr123
+      1 root:okqy123445
+      1 root:okmnji
       1 root:ohlord
       1 root:ohhot
       1 root:ohC8Famohool
       1 root:office2003
+      1 root:office
       1 root:of!@#$%^
       1 root:octopus
       1 root:oceane
+      1 root:object
       1 root:oasis
       1 root:oaoidc123
-      1 root:o2UpVWW1R0
       1 root:nvr
       1 root:nuria
       1 root:nunu123
       1 root:%null%
-      1 root:null
-      1 root:nthao
       1 root:november
       1 root:novell
       1 root:novanova
@@ -2098,7 +2536,6 @@
       1 root:noguchi
       1 root:nobody123
       1 root:nnnnn
-      1 root:@n!md@mP#$@?$&#@!#mTadm!n$@
       1 root:nji90okm
       1 root:nirvana
       1 root:niresh
@@ -2113,7 +2550,6 @@
       1 root:niagara
       1 root:nguyen
       1 root:ngocanh
-      1 root:nfvip.com
       1 root:newyork
       1 root:newworld
       1 root:newserver1024
@@ -2122,12 +2558,10 @@
       1 root:newpass
       1 root:newnew
       1 root:network
-      1 root:netstatan
       1 root:netscout
       1 root:netgear1
       1 root:netcafe
       1 root:netapp123
-      1 root:Net4.0fordn1on@#$%^&
       1 root:net
       1 root:nestor
       1 root:neptun
@@ -2138,7 +2572,6 @@
       1 root:ncc1701a
       1 root:ncc-1701
       1 root:ncc1701
-      1 root:nbex
       1 root:navjeevan
       1 root:national
       1 root:natasha
@@ -2158,9 +2591,7 @@
       1 root:n3wp4ss
       1 root:n3tw0rk
       1 root:n0chanc3
-      1 root:mysql
       1 root:mypassw0rd
-      1 root:mylovehack
       1 root:myippbx
       1 root:myhotservi
       1 root:myhost
@@ -2180,7 +2611,6 @@
       1 root:muhammad
       1 root:muffin
       1 root:mudar123
-      1 root:msnttcn
       1 root:mpmpmp
       1 root:moses123
       1 root:moriyama
@@ -2198,7 +2628,6 @@
       1 root:/.,mnbvcxz
       1 root:mmmmm
       1 root:mmm123
-      1 root:mm1237
       1 root:mkonji
       1 root:mitel
       1 root:mitchell
@@ -2210,7 +2639,6 @@
       1 root:miracle
       1 root:Mintel2007,/Kaidi2008
       1 root:minsky123
-      1 root:mings$%^&
       1 root:minecraft
       1 root:minded
       1 root:minda
@@ -2248,8 +2676,6 @@
       1 root:mcl
       1 root:mazdarx8
       1 root:mayamaya
-      1 root:maya0769com
-      1 root:maya0769
       1 root:maxout
       1 root:maximus
       1 root:maximum1
@@ -2260,7 +2686,6 @@
       1 root:matrix22
       1 root:matrix2000
       1 root:matrix
-      1 root:matlhtxg
       1 root:mateisen008
       1 root:mata23
       1 root:masukaja
@@ -2279,7 +2704,6 @@
       1 root:mark
       1 root:marissa1
       1 root:mariposa
-      1 root:mario
       1 root:marina
       1 root:marijuanamea123
       1 root:mariette
@@ -2307,7 +2731,6 @@
       1 root:manager19
       1 root:Manager1234
       1 root:manager123
-      1 root:manager1
       1 root:manage
       1 root:mamainvacanta
       1 root:malakia
@@ -2336,21 +2759,17 @@
       1 root:m1dn1ght
       1 root:m0th3rfuck3r
       1 root:m0th3r
-      1 root:lywl
       1 root:lynyrd
       1 root:ly123456
-      1 root:luyouqi
       1 root:luna
       1 root:lukas
       1 root:luck
       1 root:lucjan
       1 root:lucid
-      1 root:ltnkhtxg
       1 root:ls
       1 root:lovesean
       1 root:lovelove
       1 root:love123
-      1 root:love
       1 root:louise
       1 root:loop
       1 root:long
@@ -2390,18 +2809,15 @@
       1 root:letme1n
       1 root:letacla
       1 root:lerner
-      1 root:leo_zj2010
       1 root:leonardo
       1 root:legia
       1 root:leaf
-      1 root:leaber
       1 root:lds
       1 root:lcadmin
       1 root:lauren
       1 root:laserjet
       1 root:laoban
       1 root:lanyueidc
-      1 root:lanyue
       1 root:l3tm31n
       1 root:l1nux
       1 root:l0ckd0wn
@@ -2409,8 +2825,6 @@
       1 root:kultura
       1 root:kritika
       1 root:krishna
-      1 root:koxr123445
-      1 root:koxr
       1 root:kopp
       1 root:koperek
       1 root:komputer
@@ -2443,9 +2857,7 @@
       1 root:kaligula
       1 root:kaliber44
       1 root:k33p0ut
-      1 root:jywl8888
       1 root:JXLT
-      1 root:jxkj
       1 root:JXdx
       1 root:jx123456
       1 root:juventus
@@ -2455,14 +2867,9 @@
       1 root:jungle
       1 root:july1983
       1 root:juliano
-      1 root:jubuwzkcseo1
       1 root:juan
-      1 root:jtnhua
-      1 root:jtanfet
       1 root:JSLT
       1 root:JSDX
-      1 root:Jquery$%^&
-      1 root:joytbc
       1 root:joyce
       1 root:jovaughn
       1 root:joshua
@@ -2473,16 +2880,12 @@
       1 root:joe1234
       1 root:JLLT
       1 root:JLDX
-      1 root:jjwlkj
       1 root:jjj123
-      1 root:jjj!@#$%^&
-      1 root:jj@123456
       1 root:jiujiangidc
-      1 root:jiugui
       1 root:jingming
       1 root:jinggangshan
       1 root:jiljil
-      1 root:jiahuo1111
+      1 root:jiamima
       1 root:jhidc
       1 root:JH123456
       1 root:jh12345
@@ -2491,7 +2894,6 @@
       1 root:jesus101
       1 root:jesus
       1 root:jessica
-      1 root:jerry
       1 root:jerome
       1 root:jeremy
       1 root:jerbi
@@ -2501,7 +2903,6 @@
       1 root:jamesbond
       1 root:james007
       1 root:jalali
-      1 root:jackz
       1 root:jackson
       1 root:jackshit
       1 root:jackass
@@ -2509,11 +2910,9 @@
       1 root:jacare
       1 root:jabberwocky
       1 root:j4**9c+p
-      1 root:j123445
       1 root:iwish
       1 root:iwakura
       1 root:it123445
-      1 root:istrator
       1 root:ispadmin
       1 root:iso4144
       1 root:ipstor101
@@ -2523,7 +2922,6 @@
       1 root:Internet
       1 root:install
       1 root:insight
-      1 root:insecure
       1 root:insane
       1 root:inmotion
       1 root:info2004
@@ -2548,20 +2946,15 @@
       1 root:idc!QASW@
       1 root:idcq1w2e3r4t5
       1 root:idcq1w2e3
-      1 root:idcidc
-      1 root:idcfo123
       1 root:idcez123
-      1 root:idcez
       1 root:IDC2007
       1 root:idc1qazxsw23edc
       1 root:idc1qaz
       1 root:idc1q2w3e4r5t
       1 root:idc1q2w3e
-      1 root:idc123456
       1 root:idc12345
       1 root:idc@123
-      1 root:idc123
-      1 root:idc!@#
+      1 root:idc!@
       1 root:ics
       1 root:ichig0
       1 root:iceman
@@ -2570,31 +2963,16 @@
       1 root:iamthebest
       1 root:iamroot
       1 root:iammaster
-      1 root:hztbc2008
-      1 root:hztbc2007
-      1 root:hzhostcom
       1 root:hz51la
       1 root:hz@163.*
-      1 root:hwiptv
       1 root:hwang
       1 root:hunter
       1 root:hugo123
       1 root:hughes123
       1 root:huck
-      1 root:hucgynxz!&#IT
       1 root:hucgynxz!
-      1 root:hubengnet
       1 root:huaweiosta
-      1 root:huaweicncnet
-      1 root:Huawei@123
-      1 root:huawei@123
       1 root:Huawei12#$
-      1 root:huawe@123
-      1 root:huangbtng
-      1 root:huangbtn
-      1 root:hu
-      1 root:htxgwx
-      1 root:htxgnet
       1 root:http
       1 root:hq6k2qpc42
       1 root:hppavilion
@@ -2610,10 +2988,8 @@
       1 root:hobbit
       1 root:HNLT
       1 root:HNDX
-      1 root:hld2013
       1 root:hitler
       1 root:hhh123
-      1 root:hezhonghut
       1 root:hertz
       1 root:herring
       1 root:hernan
@@ -2632,7 +3008,6 @@
       1 root:HBDX
       1 root:hayabuza
       1 root:haxsislo
-      1 root:hatfeng
       1 root:haskell
       1 root:hasani
       1 root:hasan
@@ -2641,10 +3016,8 @@
       1 root:haoni123
       1 root:hannes
       1 root:hannah
-      1 root:hangzhoutbc
       1 root:hangzhou51la
       1 root:HangZhou
-      1 root:hangzhou
       1 root:hangjie987
       1 root:hallo123
       1 root:hahaha123
@@ -2658,7 +3031,6 @@
       1 root:h4d00p
       1 root:h4ck3d
       1 root:h123456
-      1 root:h123445
       1 root:GZLT
       1 root:GZDX
       1 root:gyg0sd@GYGNBD
@@ -2672,11 +3044,9 @@
       1 root:grinch
       1 root:gps123
       1 root:gpadmin
-      1 root:gould
       1 root:gotohell
       1 root:gorgonzola
       1 root:google.com
-      1 root:goodluck
       1 root:goober
       1 root:goliath
       1 root:golden
@@ -2688,19 +3058,14 @@
       1 root:goberge44
       1 root:gobbler
       1 root:goatgoat
-      1 root:gmtbc
-      1 root:gmcom
       1 root:girls
       1 root:giordano
       1 root:gigi
-      1 root:ghzxcvbn
-      1 root:ghtxgnet
       1 root:ghostboy
       1 root:Ghitr
       1 root:GftRudW!!
       1 root:gfi
       1 root:gfhjkm
-      1 root:gfbsa
       1 root:getmoney1
       1 root:geras
       1 root:george
@@ -2716,9 +3081,7 @@
       1 root:gdm
       1 root:GDLT
       1 root:GDDX
-      1 root:gd123456
       1 root:garfield
-      1 root:gaojte
       1 root:ganesh123
       1 root:gandalf
       1 root:gamebean
@@ -2729,7 +3092,6 @@
       1 root:gabriel
       1 root:g4902jk1k
       1 root:g30123-+
-      1 root:g0df0r3v3r
       1 root:funkytown
       1 root:fuckyou123
       1 root:fuckyou
@@ -2738,20 +3100,16 @@
       1 root:fuck
       1 root:fubar
       1 root:ftp12345
-      1 root:ftp123
       1 root:frontier
       1 root:frodo
       1 root:Freedom1
       1 root:frederic
-      1 root:frbgtnhymju
       1 root:frankie
       1 root:fran123
       1 root:foxtrot
       1 root:forever
       1 root:foobar
-      1 root:fong
       1 root:fluffy
-      1 root:flfthdxk
       1 root:flavius
       1 root:fjhost
       1 root:FJDX
@@ -2768,8 +3126,6 @@
       1 root:file
       1 root:figaro
       1 root:fibranne
-      1 root:fghzxcvbn
-      1 root:fghjklqwe
       1 root:fgh
       1 root:ferrer
       1 root:ferre
@@ -2777,8 +3133,6 @@
       1 root:ferara
       1 root:felix
       1 root:feixiang
-      1 root:fbsazxcvqwer
-      1 root:fbsa
       1 root:favorit
       1 root:fatispocs35
       1 root:farmacia
@@ -2796,9 +3150,7 @@
       1 root:eyeball
       1 root:extreme
       1 root:exchange
-      1 root:!@#ewqasd
       1 root:ewqasd
-      1 root:!@#ewq
       1 root:ewq
       1 root:evildead
       1 root:ettx123
@@ -2807,8 +3159,6 @@
       1 root:estes
       1 root:esperanza
       1 root:escape
-      1 root:ertyutop
-      1 root:ertyasb
       1 root:error
       1 root:ernesto
       1 root:ernest
@@ -2817,8 +3167,6 @@
       1 root:entinux
       1 root:enterprise
       1 root:enter
-      1 root:enkj!@#$%^&
-      1 root:energy
       1 root:emporium
       1 root:emerald
       1 root:emanuel
@@ -2830,12 +3178,10 @@
       1 root:elephant
       1 root:element
       1 root:elastix
-      1 root:ejgongfan
       1 root:einstein
       1 root:#@*efnet#*&
       1 root:efemena
       1 root:eee123
-      1 root:ee48900851
       1 root:EDONGIDC
       1 root:edong2008
       1 root:edong!@
@@ -2844,9 +3190,7 @@
       1 root:edcxsw
       1 root:#EDC4rfv
       1 root:eclipse
-      1 root:ebcwsxqaz
       1 root:eawillia
-      1 root:e963com
       1 root:$e50i45d$
       1 root:e3w2q1
       1 root:dynamics
@@ -2888,12 +3232,10 @@
       1 root:dirty69
       1 root:dinamika
       1 root:digital
-      1 root:difficulty
       1 root:diana
       1 root:diablo3
       1 root:diablo
       1 root:DGIDC
-      1 root:dg10!#%#%
       1 root:dff
       1 root:dexter2000
       1 root:developer
@@ -2915,7 +3257,6 @@
       1 root:deea23@#
       1 root:debian12345
       1 root:debian
-      1 root:ddd!@#$%^&
       1 root:dbduser123$
       1 root:dawn1234
       1 root:dawn
@@ -2923,11 +3264,9 @@
       1 root:dasusr1
       1 root:daredevilz
       1 root:danutzila
-      1 root:danny
       1 root:dani123
       1 root:dangerous
       1 root:danger
-      1 root:danabc123
       1 root:daemon
       1 root:dadada
       1 root:dabe
@@ -2938,12 +3277,8 @@
       1 root:D00fus01
       1 root:D
       1 root:cznut9527!@
-      1 root:czbhrxgnet
-      1 root:czb
-      1 root:cyidc!@#
       1 root:cygnus
       1 root:cyber123
-      1 root:cuktu123
       1 root:cucurigu
       1 root:cucubau
       1 root:cubism
@@ -2956,15 +3291,7 @@
       1 root:crossfire
       1 root:croco
       1 root:C@r*i%n$t
-      1 root:crfvtgb
-      1 root:Crack8
       1 root:cqzr2008
-      1 root:cqtnbex
-      1 root:cqsbwhtxgnet
-      1 root:cqsbw
-      1 root:cqly
-      1 root:cqlanyanwl
-      1 root:cqlanyan
       1 root:cqidc123
       1 root:cpe1704tks
       1 root:coyote22
@@ -2974,7 +3301,6 @@
       1 root:cookies
       1 root:cookie
       1 root:contam
-      1 root:contact
       1 root:connect
       1 root:config
       1 root:conex
@@ -2986,7 +3312,6 @@
       1 root:Compaq
       1 root:company
       1 root:como
-      1 root:command
       1 root:com123
       1 root:colla
       1 root:col123
@@ -2996,17 +3321,10 @@
       1 root:cocacola
       1 root:co1234kr
       1 root:CnWxX2j9rkSrVNf6PBb4j2JXf
-      1 root:cnktu654321
-      1 root:cnktu123654
-      1 root:cnktu123445
-      1 root:cnktu123321
       1 root:cndns
-      1 root:cnbns
       1 root:cmsroot
       1 root:cms500
       1 root:cloudtest
-      1 root:cloudmind.cn
-      1 root:clone
       1 root:clinica
       1 root:cliffburton
       1 root:client
@@ -3017,25 +3335,6 @@
       1 root:Cisco
       1 root:cindy
       1 root:chulis
-      1 root:chtnatbcnetcn
-      1 root:chtnatbcnet
-      1 root:chtnatbccom
-      1 root:chtnatbccn
-      1 root:chtnatbc123445
-      1 root:chtnatbc
-      1 root:chtnatb
-      1 root:chtnamobtle
-      1 root:chtnamo
-      1 root:chtnafunet
-      1 root:chtnafu123
-      1 root:chtnafu
-      1 root:chtna35tbc
-      1 root:chtna35
-      1 root:chtna2007tbc
-      1 root:chtna2007
-      1 root:chtna123qwe
-      1 root:chtna123
-      1 root:chtantbc2007
       1 root:christine
       1 root:christian
       1 root:chopin
@@ -3043,7 +3342,6 @@
       1 root:chinatt10050
       1 root:ChinaShc
       1 root:ChinaNet.CC
-      1 root:chinaidc!@#$%^&
       1 root:chinaidc!@
       1 root:chinadatas.com
       1 root:china888idc
@@ -3058,20 +3356,12 @@
       1 root:chicken
       1 root:chevy2
       1 root:chesnokov
-      1 root:chenltng
-      1 root:chenltn
-      1 root:chat6cn
-      1 root:chat6123445
-      1 root:chat6
       1 root:charlotte
       1 root:charliebrown
       1 root:Charlie
-      1 root:chanshecom
       1 root:changeme4321
       1 root:changeme1234
       1 root:Changeme_123
-      1 root:Changeme123
-      1 root:changeme@123
       1 root:changeme1
       1 root:ChangeMe
       1 root:changeme!
@@ -3088,11 +3378,8 @@
       1 root:cdnlive
       1 root:cdnadmin
       1 root:cdewsxyaq
-      1 root:cctv
-      1 root:cchtxgnet
       1 root:!!!!!ccdos
       1 root:cccccc
-      1 root:cbe3
       1 root:cazzo
       1 root:castle
       1 root:castel
@@ -3104,32 +3391,25 @@
       1 root:captive
       1 root:capet0wn
       1 root:capdeporc
-      1 root:caontma
-      1 root:caonimabi
       1 root:caniROOTER
       1 root:cangnan25
       1 root:candyman
       1 root:campoverde
       1 root:calimocho
-      1 root:caesar
       1 root:cactiez!@
       1 root:cacacaca
       1 root:caca
       1 root:c8h10n4o2
       1 root:c89tg91fx12321
       1 root:c4t4r1n4
-      1 root:c3net
-      1 root:c30ce61
       1 root:C2sTbmcmW5kT
+      1 root:c
       1 root:BYROOT49
       1 root:byr03k03
-      1 root:bworb
       1 root:business
       1 root:burger
       1 root:buffy
       1 root:bucetaxoxota9
-      1 root:btlecom
-      1 root:bserver
       1 root:bristol1
       1 root:brian
       1 root:Bretagne
@@ -3167,7 +3447,6 @@
       1 root:bl3rand,.
       1 root:bj2008
       1 root:bj123456
-      1 root:bj123445
       1 root:bitnet
       1 root:bismillah123
       1 root:biscoito
@@ -3194,7 +3473,6 @@
       1 root:beasty
       1 root:beacon
       1 root:bcbcbcbc
-      1 root:bb123445
       1 root:bb
       1 root:batman
       1 root:Batista1
@@ -3207,7 +3485,6 @@
       1 root:banana
       1 root:balthazar
       1 root:balance
-      1 root:baidu.com
       1 root:bad2bad
       1 root:backup
       1 root:backbone
@@ -3226,16 +3503,13 @@
       1 root:ayse
       1 root:axioma
       1 root:axiom123
-      1 root:autoemar
       1 root:austral1a
       1 root:au4a83
       1 root:attila
       1 root:attika
       1 root:atomic
       1 root:ates
-      1 root:atavism
       1 root:aszx
-      1 root:asterisk
       1 root:astABZH381256p
       1 root:assw0rd
       1 root:assess
@@ -3256,10 +3530,8 @@
       1 root:asdfghjk
       1 root:asdfgh123
       1 root:asdfgh
-      1 root:asdfg
       1 root:asdfasdfasdf
       1 root:asdfasdf
-      1 root:Asdf13579#
       1 root:asdf1234%^
       1 root:asdf@123
       1 root:asdf123
@@ -3267,15 +3539,9 @@
       1 root:asdasdasd
       1 root:asdasd123
       1 root:asdasd111
-      1 root:asd1234567
-      1 root:asd.123
       1 root:asd123
       1 root:asd
-      1 root:asbfghjklqw
-      1 root:asbfghjkl
-      1 root:asbfghjk
-      1 root:asbfg
-      1 root:asbf
+      1 root:asbasb
       1 root:as123456
       1 root:artur
       1 root:artica
@@ -3298,7 +3564,7 @@
       1 root:aquila
       1 root:aquarius
       1 root:aqua
-      1 root:aq1sw2
+      1 root:aq1sw2be3fr4
       1 root:Appl!@nce
       1 root:applepie
       1 root:applemac
@@ -3309,18 +3575,15 @@
       1 root:apache2svn
       1 root:apache1234
       1 root:apache12
-      1 root:anxue03105
       1 root:anuradha
       1 root:antolin
       1 root:antoine
       1 root:anthony
-      1 root:ans#150
       1 root:anna1904
       1 root:AnHuilt
       1 root:angelofheaven
       1 root:angelo
       1 root:angel23
-      1 root:angel123
       1 root:angel
       1 root:andy
       1 root:andromeda
@@ -3329,7 +3592,6 @@
       1 root:anderson
       1 root:anarchia
       1 root:amigos
-      1 root:amigo
       1 root:america
       1 root:amdk62
       1 root:ambassadors
@@ -3366,12 +3628,10 @@
       1 root:aegis
       1 root:admurbr
       1 root:adm!n
-      1 root:admintest
       1 root:admins123
       1 root:adminroot
       1 root:adminqwe
       1 root:adminpwd
-      1 root:adminn
       1 root:adminme
       1 root:administrator123
       1 root:Administrator
@@ -3379,30 +3639,17 @@
       1 root:admini
       1 root:admin!dc
       1 root:admin999
-      1 root:admin888
       1 root:admin88
       1 root:admin6789
-      1 root:admin321@@@
       1 root:admin321
       1 root:admin24
       1 root:admin222333
       1 root:admin2014
       1 root:admin!2
-      1 root:admin2
       1 root:admin1qaz2wsx
       1 root:admin17
       1 root:admin1314
-      1 root:admin123456789
-      1 root:admin12345678
-      1 root:admin1234567
-      1 root:Admin123456
-      1 root:admin123456#
       1 root:admin@1234
-      1 root:admin_1234
-      1 root:Admin123!@#
-      1 root:Admin@123
-      1 root:admin123#
-      1 root:admin123!@#
       1 root:admin.123
       1 root:admin12
       1 root:admin1111
@@ -3414,29 +3661,21 @@
       1 root:admin.
       1 root:admin!$$
       1 root:admin!$
-      1 root:admin!@#$%^&
       1 root:admin!@!@
-      1 root:admin!@
       1 root:admin!!!
       1 root:admin!!
-      1 root:admin_!@#
       1 root:@admin
       1 root:!admin!
-      1 root:!@#admin
       1 root: admin
       1 root:Adm1n
       1 root:adgjmptw1
       1 root:adgjmptw
-      1 root:adcdefg
       1 root:adamy
       1 root:adad1212
       1 root:ad!@
       1 root:activ8
       1 root:acme
       1 root:acccount
-      1 root:abmtn9
-      1 root:abmtn89
-      1 root:abmtn12
       1 root:able1234
       1 root:abitcool
       1 root:abdul
@@ -3444,57 +3683,42 @@
       1 root:abcdefg12
       1 root:abcdef
       1 root:abcde
-      1 root:Abcd1234
       1 root:abcd1234#
       1 root:abcd1234$
       1 root:abcd-1234
       1 root:abcd123
       1 root:abcd
-      1 root:abcb
       1 root:abcabc123
-      1 root:abc1234567
-      1 root:abc@123456
       1 root:abc12345
       1 root:abc@1234
-      1 root:Abc123
       1 root:abc123*
       1 root:abc123$
       1 root:abc123@@
       1 root:abc123...
       1 root:abc-123
-      1 root:!@#abc123
       1 root:abc
       1 root:abbas123
       1 root:abbadon
       1 root:ababbabababbaba
       1 root:ab102030
-      1 root:aasa
       1 root:aaron
-      1 root:aaasa
-      1 root:aaaasa
-      1 root:aaaaasa
       1 root:aaaaaaa8
       1 root:aaaaaaa
       1 root:aaa123
       1 root:Aa123456..
       1 root:aa
       1 root:a789456
-      1 root:a654321
       1 root:a456789
       1 root:a423512!@
       1 root:a3da50fb67a6ae5a06eca1364e2356a9
       1 root:A1s2d3f4
-      1 root:a1s2d3f4
       1 root:A1b2c3d4e5
-      1 root:a1b2c3d4e5
       1 root:a1b23c
       1 root:a1b2
       1 root:a147b258c369
       1 root:a147258369
-      1 root:a123654
       1 root:a123456789
       1 root:a12345678
-      1 root:a1234567
       1 root:a12345
       1 root:a1234457
       1 root:a123445
@@ -3508,10 +3732,8 @@
       1 root:99bobotw
       1 root:999999999
       1 root:9999
-      1 root:998877
       1 root:996633
       1 root:995511
-      1 root:990sf.net
       1 root:99009900
       1 root:9898
       1 root:9876543210
@@ -3519,25 +3741,16 @@
       1 root:987456
       1 root:987321654
       1 root:9797
-      1 root:963963369
       1 root:963963
-      1 root:963852741
-      1 root:9630
       1 root:953139.
       1 root:951753
       1 root:8uhb9ijn
       1 root:898989
       1 root:888999
-      1 root:88888sa
-      1 root:888888888
       1 root:8888888
       1 root:8888
       1 root:888!@
       1 root:888
-      1 root:8877
-      1 root:8812345
-      1 root:88122345
-      1 root:8787
       1 root:87654321
       1 root:8765$
       1 root:85Dfr33Fre3BZD
@@ -3545,61 +3758,40 @@
       1 root:85208520
       1 root:840321
       1 root:828282
-      1 root:811abmtn
-      1 root:7x24idc
-      1 root:7x24.com
-      1 root:7iu45Perc887pW12c76Ecik88
       1 root:7hur@y@t3am$#@!(*(
       1 root:791213
       1 root:789789789
       1 root:789654123
       1 root:7895123
-      1 root:7788aa
       1 root:77889900
       1 root:778899
       1 root:7788
-      1 root:777sa
-      1 root:777777777
-      1 root:77777777
-      1 root:7766
       1 root:7758521
       1 root:771989
       1 root:7654321
       1 root:741852963
       1 root:741852
-      1 root:7410
       1 root:706e642a056c7e894ed5a01e55700004
       1 root:6e136e9da8372bc94899ecef857c5405
       1 root:68b329da9893e34099c7d8ad5cb9c940
       1 root:6767
       1 root:675519299
       1 root:666777
-      1 root:666666666
       1 root:66666666
       1 root:6666
       1 root:663411584
       1 root:663399
-      1 root:662766
       1 root:6625329a!
       1 root:6621293
       1 root:654321ytrewq
-      1 root:65432!
-      1 root:654123
       1 root:60b725f10c9c85c70d97880dfe8191b3
-      1 root:60000
       1 root:5zigen
       1 root:5tgb6yhn
       1 root:!!!5)fengly
       1 root:5demayo
       1 root:5960
-      1 root:56789sa
       1 root:567833
-      1 root:!@#$5678
-      1 root:567%^&
       1 root:5566
-      1 root:55558888
-      1 root:5555588888
-      1 root:555555555
       1 root:555555
       1 root:5555
       1 root:55
@@ -3607,12 +3799,10 @@
       1 root:54321.0
       1 root:54321
       1 root:5428501as
-      1 root:52xxxcn
       1 root:520520520
       1 root:!51@hw
       1 root:51505150
       1 root:501501
-      1 root:50000
       1 root:4root4
       1 root:4r5t6y
       1 root:4r3e2w1q
@@ -3622,19 +3812,14 @@
       1 root:45674567
       1 root:456456456
       1 root:456321
-      1 root:!@#456
       1 root:456
       1 root:455word0
       1 root:4533
-      1 root:444444444
       1 root:4444
       1 root:444
       1 root:4321
-      1 root:400tbc
       1 root:400idc
-      1 root:40000
       1 root:3ternity
-      1 root:3IIS
       1 root:3edc@WSX1qaz
       1 root:3edc4rfv5tgb
       1 root:3edc
@@ -3642,33 +3827,23 @@
       1 root:392
       1 root:382
       1 root:369369
-      1 root:369258147
       1 root:369147852
-      1 root:35tbc
       1 root:35inter888
       1 root:35inter444
-      1 root:35com
       1 root:357357
-      1 root:357159
       1 root:34erdfcv
       1 root:345ertdfg
       1 root:34563e4r5t6y
       1 root:343434
       1 root:33gg172
       1 root:33893389
-      1 root:336699336699
       1 root:33443344
       1 root:333444
-      1 root:333333333
       1 root:33333333
-      1 root:332526qq
       1 root:332211
       1 root:323232
       1 root:321qwe
       1 root:321654
-      1 root:321!@#
-      1 root:!@#321
-      1 root:321
       1 root:314159
       1 root:314000
       1 root:313131
@@ -3676,8 +3851,6 @@
       1 root:303
       1 root:300680
       1 root:300197
-      1 root:30000
-      1 root:2wsx#EDC
       1 root:2wsx
       1 root:2w3e4r5t
       1 root:2secure4u
@@ -3691,27 +3864,20 @@
       1 root:2861989
       1 root:260310
       1 root:258369
-      1 root:258258
       1 root:25662453
       1 root:2510
       1 root:250311
       1 root:!2#4%6&8(0
-      1 root:2468
-      1 root:!2#4%6&
-      1 root:!2#4%6
       1 root:24588
       1 root:235689
       1 root:234wersdfxcv
       1 root:2342w3e4r
       1 root:233
-      1 root:2250804520
       1 root:222333
       1 root:2222222222
-      1 root:222222222
       1 root:222222
       1 root:221011
       1 root:21vianet.com
-      1 root:21vianet
       1 root:2164823977newpass123
       1 root:212224
       1 root:212121
@@ -3721,15 +3887,10 @@
       1 root:2010
       1 root:20082008
       1 root:2008
-      1 root:20000
       1 root:200
       1 root:1z2x3c4v5b
-      1 root:1z2x3c4v
-      1 root:1z2x3c
-      1 root:1w2q3e
       1 root:1stanbul
       1 root:1Samora4u
-      1 root:1sa
       1 root:1qwe23
       1 root:1qw23er4
       1 root:1qazzaq1
@@ -3740,21 +3901,12 @@
       1 root:1qazxsw
       1 root:1qazxcde3
       1 root:1qaz@WSX3edc
-      1 root:1qaz@wsx
-      1 root:1qazse4
       1 root:1qazmko0
       1 root:1qaz#EDC5tgb
-      1 root:1qaz#EDC
       1 root:1qazaq1
       1 root:1qaz2wsx3edc
-      1 root:1qaz2wsx3ebc4rfv
       1 root:1qaz2wsx3e
-      1 root:1qaz2wsx3
-      1 root:1qaz2wsx1
-      1 root:1QaZ2WsX
-      1 root:1qaz2wsx!@#
       1 root:1qaz2wsx!@
-      1 root:1qaz2ws
       1 root:1qaz2
       1 root:1qaz1qaz
       1 root:1qaz
@@ -3763,19 +3915,13 @@
       1 root:1qa2ws3ed
       1 root:1q2w3e!Q@W#E
       1 root:1q2w3e4r5t6y7u8i9o0p
-      1 root:1q2w3e4r5t6y7u8i9o
       1 root:1q2w3e4r5t6y1q2w3e4r5t
       1 root:1Q2w3E4r
       1 root:1q2w3e4r@
-      1 root:1q2w3e,.
-      1 root:1q2w
-      1 root:1q2a3z
-      1 root:1q1q1q
       1 root:1nd0n3s14
       1 root:1i32bhyw
       1 root:1derful
       1 root:1candoit
-      1 root:1a2s3d4f
       1 root:1a2b
       1 root:19940817
       1 root:19921105
@@ -3784,8 +3930,6 @@
       1 root:!!@@198653
       1 root:1986
       1 root:19851211
-      1 root:1985121
-      1 root:1983sa
       1 root:19831983
       1 root:19831004
       1 root:1983
@@ -3799,11 +3943,8 @@
       1 root:19720111
       1 root:1905
       1 root:19001560
-      1 root:18602611
       1 root:17929200
-      1 root:177@dg1
       1 root:168900
-      1 root:163@zq163&
       1 root:163nscom
       1 root:15975328
       1 root:15975321
@@ -3811,11 +3952,9 @@
       1 root:159159
       1 root:1503
       1 root:150270
-      1 root:147369
       1 root:147258369
       1 root:147123
       1 root:145236
-      1 root:1380138000
       1 root:135792
       1 root:13579@$^*)
       1 root:1357
@@ -3825,148 +3964,100 @@
       1 root:1314521
       1 root:131420
       1 root:1302
-      1 root:12sa
       1 root:1290347856
       1 root:128128
       1 root:12571257
       1 root:123zxc
       1 root:123xxx
-      1 root:123vvv
-      1 root:123sa
       1 root:123root
       1 root:123qwertz456
       1 root:123qwerty
-      1 root:123qwer
       1 root:123qwe!@#QWE
       1 root:123qweasdzxc123qweasdzxc
-      1 root:123QWE
+      1 root:123qweasb
       1 root:123qwe@
-      1 root:123qwe!@#
       1 root:123@qwe
-      1 root:123.qwe
-      1 root:123!@#qwe
       1 root:@123qwe@
       1 root:123qwasd
       1 root:123QAZWSXEDC
-      1 root:123mysql
       1 root:123mudar
       1 root:123deoliveira4
       1 root:123.com!@
       1 root:123asd123
-      1 root:123@ASD
       1 root:123apache
       1 root:123administrador
       1 root:123admin123
-      1 root:!@#123abc
-      1 root:123789m
       1 root:123789
-      1 root:123654b
       1 root:1236
-      1 root:123567
       1 root:1235
-      1 root:1234sa
       1 root:1234qwerasdf
-      1 root:1234qwera
       1 root:1234@qwer
       1 root:1234qw
       1 root:1234.com
       1 root:1234caonima
-      1 root:1234asdf
       1 root:1234abcd
       1 root:12348765
-      1 root:123465
+      1 root:12345qwerta
       1 root:12345qwert!@
+      1 root:12345gh
       1 root:12345abc
       1 root:123457
       1 root:123456zz
       1 root:123456zxcvbn
       1 root:123456qwe
-      1 root:123456qw4
       1 root:123456qq
-      1 root:123456q
-      1 root:123456gf
-      1 root:123456admzxcvbnm!@#$%^&
       1 root:123456abcdef
       1 root:123456abc
-      1 root:123456aa
       1 root:123456a@
       1 root:123456a
       1 root:1234567qwertyu
-      1 root:1234567j
       1 root:12345679
       1 root:12345678uyt
       1 root:12345678qwertyui
-      1 root:12345678gf
       1 root:12345678abc
       1 root:123456789a
       1 root:1234567899
-      1 root:1234567890jgf
       1 root:1234567890-=
-      1 root:1234567!@#$%^&
       1 root:12345654321
       1 root:123456.123.520
       1 root:123456123456
       1 root:123456.0
       1 root:1234560
       1 root:123456.
-      1 root:123456!@#$%^
-      1 root:123456!@#
       1 root:123456!
       1 root:123@456
       1 root:123.456
-      1 root:!@#123456!@#
-      1 root:!@#123456
       1 root:123455
       1 root:12345123456
       1 root:12345..
-      1 root:1234457
-      1 root:1234000
-      1 root:1234%^&*
       1 root:1234%^
       1 root:1234$
+      1 root:1234!@
       1 root:1234!
-      1 root:!@#1234
-      1 root:1233333333
-      1 root:123333
       1 root:123321123
       1 root:1233
-      1 root:123123sa
       1 root:123@123a
       1 root:12312300
       1 root:123000
-      1 root:123.0
-      1 root:123$%^&
       1 root:123...
-      1 root:123!@#
-      1 root:#@!123
-      1 root:!@#123
+      1 root:123!@
       1 root:!!123
       1 root:1223334444
-      1 root:1222222222
       1 root:1221
       1 root:1207
       1 root:12
-      1 root:11sa
       1 root:11qqaa22wwss
       1 root:11aa22bb
       1 root:11591159
-      1 root:114477114477
       1 root:1123581321
       1 root:1123
-      1 root:1+1=2
-      1 root:112
       1 root:111313
       1 root:111222
-      1 root:1111sa
       1 root:11112222
-      1 root:111111111
       1 root:1111111
-      1 root:1111
-      1 root:!!!111
+      1 root:111000
       1 root:111
-      1 root:110120112
       1 root:110120
-      1 root:110110
       1 root:110
       1 root:!!11
       1 root:11
@@ -3978,8 +4069,6 @@
       1 root:100191
       1 root:100
       1 root:1!@
-      1 root:0p9o8t
-      1 root:0p9o8i7u
       1 root:0p3ns3s4m3
       1 root:0okmnji9
       1 root:0okmju7
@@ -3989,24 +4078,15 @@
       1 root:091978
       1 root:0742840622
       1 root:0727527122
-      1 root:0512tbc
       1 root:0258
       1 root:020799
       1 root:0192837465
-      1 root:0123456789!qaz
       1 root:0123456789
-      1 root:0123456
       1 root:012345
-      1 root:0.1234
-      1 root:01230123
-      1 root:0.123
-      1 root:0123
       1 root:01061983
       1 root:007007
       1 root:001
       1 root:000111222333
-      1 root:0000000000
-      1 root:000000000
       1 root:0.0.0.
       1 root:000
       1 Root:
@@ -4014,16 +4094,11 @@
       1 root:******
       1 root:*
       1 root:$
-      1 root:@#$%&
       1 root:@#$%^&*!
-      1 root:@#$%^&
-      1 root:@!
       1 root:)&@#(&!$(@
       1 root:......
       1 root:....
       1 root:...
-      1 root:!@#$%^&
-      1 root:!@#!@#
       1 root:!!*!!*
       1 root:!!@
       1 root:!!)!!)
@@ -4035,10 +4110,9 @@
       1 root:!!!!!!!!
       1 root:!!!!!!!
       1 root:!!!!!
-      1 root:!
       1 root:-
       1 root:_
-      1 root:~!@#$%^&
+      1 root: 
       1 root:``````````
       1 richard:richard
       1 red:red
@@ -4089,6 +4163,7 @@
       1 oracle4:oracle4
       1 oracle2:oracle2
       1 oracle:1234567
+      1 oracle:123123
       1 operator:testuser
       1 operator:superman
       1 Operator:operator123
@@ -4108,6 +4183,7 @@
       1 nagios:test
       1 nagios:dragon
       1 nagios:admin123
+      1 nagios:123qwe
       1 nagios:1234567
       1 nagios:12345
       1 nagios:111111
@@ -4278,6 +4354,7 @@
       1 admin:secure
       1 admin:Qwerty1
       1 admin:P@ssw0rd
+      1 admin:p@ssw0rd
       1 admin:Passw0rd
       1 admin:openelec
       1 admin:meinsm
