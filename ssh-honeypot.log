@@ -1,68 +1,68 @@
-   1167 admin:admin
-    651 root:root
-    440 admin:1234
-    397 user:user
-    380 root:admin
-    375 ubnt:ubnt
-    366 root:!@
-    346 root:password
-    335 root:123456
-    301 root:12345
+   1199 admin:admin
+    666 root:root
+    455 admin:1234
+    409 user:user
+    388 ubnt:ubnt
+    385 root:admin
+    367 root:!@
+    351 root:password
+    338 root:123456
+    305 root:12345
     273 root:1234
     271 root:111111
-    242 pi:raspberry
-    232 root:default
+    244 pi:raspberry
+    237 root:default
     226 root:1234567890
     223 root:123
     218 root:123456789
     216 root:123123
     215 root:12345678
+    215 admin:password
     214 root:1qaz2wsx
     213 root:1234567
-    211 admin:password
+    209 root:000000
     208 root:qwerty
-    208 root:000000
     207 root:admin123
     206 root:abc123
+    201 fake:fake
     197 root:1q2w3e4r
-    194 root:abcd1234
+    195 support:support
+    195 root:abcd1234
     193 root:123qwe
-    192 support:support
-    191 fake:fake
-    187 admin:12345
+    190 admin:12345
     178 root:toor
+    175 usuario:usuario
     174 test:test
+    174 root:openelec
     173 root:admin1
+    173 root:666666
     172 root:cisco
-    172 root:666666
-    171 usuario:usuario
     169 root:ubnt
-    169 root:openelec
     169 root:a123456
     167 root:alpine
     167 root:administrator
     167 root:1q2w3e
     165 root:1qazxsw2
     162 root:123123123
+    161 root:root123
     159 root:dreambox
-    158 root:root123
     158 root:1q2w3e4r5t
+    158 root:1234qwer
     157 root:1qaz@WSX
-    157 root:1234qwer
     156 root:987654321
     154 root:master
+    153 root:welc0me
     153 root:123321
-    152 root:welc0me
     152 root:12qwaszx
     150 root:changeme
     149 root:11111
     147 root:dragon
     147 root:1qazXSW@
+    147 root:123qweasd
     147 root:123abc
     146 root:pass
     146 root:calvin
     146 root:abc123456
-    146 root:123qweasd
     146 root:1
     144 root:abc@123
     143 root:2wsx3edc
@@ -74,21 +74,21 @@
     138 root:11223344
     138 root:112233
     137 root:google
-    136 root:0000
-    134 root:system
+    137 root:0000
+    136 root:system
+    135 admin:admin123
     134 root:1q2w3e4r5t6y
     134 root:1111
     132 root:abc1234
     131 root:00000
-    130 admin:admin123
     129 root:88888888
     129 root:1a2b3c
     129 root:11111111
     129 root:010203
     128 root:31415926
+    128 root:123654
     127 root:888888
     127 root:654321
-    127 root:123654
     127 root:12345qwert
     127 root:123@123
     126 root:passw0rd
@@ -104,12 +104,12 @@
     123 root:aa123456
     123 root:a
     123 root:789789
+    123 guest:guest
     122 root:test
     122 root:public
     122 root:daniel
     122 root:7777777
     122 root:4rfv$RFV
-    122 guest:guest
     121 root:qazwsx
     121 root:159357
     121 root:123@abc
@@ -120,6 +120,7 @@
     120 root:1122334455
     119 root:cisco123
     119 root:asdasd
+    119 admin:1111
     118 root:redhat
     118 root:linux
     118 root:321
@@ -127,12 +128,13 @@
     117 root:manager
     117 root:CactiEZ
     117 root:456123
-    117 admin:1111
     116 root:rootroot
     116 root:driver
     116 root:abcd123456
     116 root:aaa
     116 root:1212
+    116 admin:admin1234
+    116 admin:admin1
     115 root:123qwer
     114 root:asdf
     114 root:Admin@123
@@ -142,10 +144,10 @@
     114 root:147258
     114 root:12341234
     114 root:0123
-    114 admin:admin1234
-    114 admin:admin1
     113 root:aaaaaa
     113 root:225588
+    113 admin:pfsense
+    113 admin:default
     112 root:linux123
     112 root:huawei
     112 root:admin@123
@@ -153,28 +155,26 @@
     112 root:147147
     112 root:123asd
     111 root:passwd
-    111 admin:default
     110 root:3edc#EDC
     110 root:142536
+    110 admin:7ujMko0admin
     109 root:qwertyuiop
     109 root:qwerty123
     109 root:asdf1234
     109 root:Abc123
     109 root:121212
+    108 root:Passw0rd
     108 root:master123
     108 root:caonima
     108 root:admin001
     108 root:1qaz@WSX3edc$RFV
     107 root:!QAZ2wsx
-    107 root:Passw0rd
     107 root:carlos
     107 root:1a2s3d4f
-    107 admin:pfsense
+    107 admin:manager
     106 root:computer
-    106 admin:manager
     106 admin:changeme
     105 root:asdfg
-    105 admin:7ujMko0admin
     104 root:root1234
     104 root:123456q
     103 root:pa55w0rd
@@ -203,6 +203,7 @@
      99 root:!@#123
      99 root:1029384756
      98 root:firewall
+     98 root:anko
      98 root:Abcd1234
      98 root:1qaz2wsx3edc
      98 root:123.qwe
@@ -216,7 +217,6 @@
      97 root:159753
      96 root:live
      96 root:data
-     96 root:anko
      96 root:admin123$%^
      96 root:12345678910
      96 root:0000000000
@@ -236,9 +236,10 @@
      93 root:admin1234
      93 root:3.1415926
      93 admin:motorola
+     93 admin:aerohive
+     92 root:qwer1234
      92 root:azerty
      92 root:1q2w3e,.
-     91 root:qwer1234
      91 root:password1
      91 root:admin123456789
      91 root:Admin123
@@ -251,6 +252,7 @@
      90 root:asterisk
      90 root:1q2w
      90 root:1234567!@#$%^&
+     89 root:raspberrypi
      89 root:anonymous
      89 root:admin123!@#
      88 root:telnet
@@ -258,22 +260,20 @@
      88 root:server
      88 root:pi
      88 root:alex
-     88 admin:aerohive
      87 root:power
      87 root:pass123
+     87 root:nosoup4u
      87 root:huawei@123
      87 root:admin_123
      87 root:abc12345
      87 root:1qaz1qaz
      87 admin:123456
-     86 root:raspberrypi
      86 root:operator
      86 root:monkey
      86 root:guest
      86 root:1qaz#EDC
      86 root:01234567
      85 root:root1
-     85 root:nosoup4u
      85 root:7654321
      84 root:welcome
      84 root:1qaz2wsx!@#
@@ -289,31 +289,32 @@
      82 root:rootpass
      82 root:passwd123
      82 root:genesis
+     82 root:abcde12345
      82 root:abcd123
      82 root:8812345
      82 root:123456qwe
      82 root:123456abc
      82 root:1111111
+     82 root:101010
      82 root:0727527122
      81 root:vagrant
      81 root:superuser
      81 root:athens
      81 root:adrian
-     81 root:abcde12345
      81 root:abc@123456
+     81 root:54321
      81 root:1z2x3c
-     81 root:101010
+     81 oracle:oracle
      80 root:asdfghjkl
      80 root:aa123123
      80 root:77777777
-     80 root:54321
      80 root:1qaz@wsx
      80 root:1234asdf
      80 root:111
-     80 oracle:oracle
      79 root:password1234
      79 root:963852741
      79 root:@123456
+     79 root:102030
      79 root:100200
      79 root:0123456
      78 root:password1!
@@ -328,7 +329,7 @@
      78 root:13579
      78 root:123789
      78 root:12301230
-     78 root:102030
+     78 root:11
      77 root:demo
      77 root:asd
      77 root:admin1234567
@@ -336,7 +337,6 @@
      77 root:123root
      77 root:1234qwerasdf
      77 root:1234%^&*
-     77 root:11
      77 root:0p9o8i7u
      76 user:123456
      76 root:q1w2e3r4t5y6
@@ -374,6 +374,7 @@
      73 root:freedom
      73 root:8520
      72 root:user
+     72 root:uClinux
      72 root:root00
      72 root:qweasdzxc
      72 root:qweasd
@@ -385,7 +386,6 @@
      72 root:apache
      72 root:111222
      71 ubuntu:ubuntu
-     71 root:uClinux
      71 root:p@$$w0rd
      71 root:install
      71 root:Huawei@123
@@ -411,6 +411,7 @@
      69 root:!@#123456
      69 root:1234!@#$
      69 root:!@#!@#
+     69 1234:1234
      68 test:123456
      68 root:super
      68 root:qwert
@@ -422,8 +423,8 @@
      68 root:123567
      68 root:1234abcd
      68 root:-
-     68 1234:1234
      67 root:whatever
+     67 root:rpitc
      67 root:qazwsxedc123
      67 root:Passw0rd1234
      67 root:minecraft
@@ -439,11 +440,11 @@
      67 root:123456a
      67 root:123456789a
      67 root:0987654321
+     66 user:1234
      66 root:zxcv1234
      66 root:xmhdipc
      66 root:tslinux
      66 root:server123
-     66 root:rpitc
      66 root:qwerty1
      66 root:idc123
      66 root:hello1234
@@ -454,7 +455,6 @@
      66 root:321!@#
      66 root:2wsx#EDC
      66 root:!!!111
-     65 user:1234
      65 root:oracle1
      65 root:fuck
      65 root:ftpuser
@@ -502,6 +502,7 @@
      63 root:123qwe!@#QWE
      63 root:123457
      63 root:123.456
+     63 mother:fucker
      62 vagrant:vagrant
      62 root:vyatta
      62 root:support
@@ -517,7 +518,8 @@
      62 root:951753
      62 root:134679
      62 root:012345
-     62 mother:fucker
+     61 root:Zte521
+     61 root:waldo
      61 root:test1
      61 root:superman
      61 root:qazxswedc
@@ -532,9 +534,7 @@
      61 root:1230
      61 ftpuser:ftpuser
      60 root:zxcvbnm
-     60 root:Zte521
      60 root:zaq12wsx
-     60 root:waldo
      60 root:root123456
      60 root:!QAZ1qaz
      60 root:P@ssw0rd1234
@@ -563,6 +563,7 @@
      59 root:o12nu27
      59 root:goodluck
      59 root:bbbbbb
+     59 root:admin01
      59 root:abcd12345
      59 root:aaron
      59 root:4444
@@ -576,7 +577,6 @@
      58 root:ferrari
      58 root:com123
      58 root:asdqwe123
-     58 root:admin01
      58 root:admin!@#
      58 root:abcdef
      58 root:7hur@y@t3am$#@!(*(
@@ -584,6 +584,7 @@
      58 root:1q2w3e!@#
      58 root:147369
      58 root:~!@#$%^&
+     57 root:zxcasdqwe123
      57 root:vmware
      57 root:rootadmin
      57 root:r00tr00t
@@ -597,7 +598,6 @@
      57 root:boston
      57 root:backup
      57 root:8787
-     56 root:zxcasdqwe123
      56 root:zaq1xsw2
      56 root:qq313994716.
      56 root:pakistan
@@ -621,6 +621,7 @@
      55 root:adam
      55 root:8owmpiyddyo
      55 root:1qaz2wsx#EDC
+     54 root:seiko2005
      54 root:qaz
      54 root:postgres
      54 root:nopassword
@@ -635,9 +636,9 @@
      54 root:131313
      54 root:1234@qwer
      54 root:123.321
+     54 osmc:osmc
      53 root:toor123
      53 root:thomas
-     53 root:seiko2005
      53 root:qwertyu
      53 root:qwerty12345
      53 root:qweqwe123
@@ -666,7 +667,6 @@
      53 root:1234554321
      53 root:1222222222
      53 root:0okm9ijn8uhb
-     53 osmc:osmc
      53 admin:root
      52 test:123
      52 root:winner
@@ -713,6 +713,7 @@
      52 root:1234000
      52 root:1202091
      52 root:01230123
+     51 user:12345
      51 root:zxc
      51 root:zaq123
      51 root:windows
@@ -775,7 +776,6 @@
      51 root:110120112
      51 root:10000
      50 user:password
-     50 user:12345
      50 telnet:telnet
      50 root:xxxxxx
      50 root:ts
@@ -909,6 +909,8 @@
      49 root:0.1234
      49 root:000000000
      49 root:*
+     49 git:git
+     48 test:1234
      48 root:z1x2c3v4
      48 root:wubao
      48 root:webmaster
@@ -1029,8 +1031,7 @@
      47 root:1234567890-=
      47 root:1223334444
      47 root:.
-     47 git:git
-     46 test:1234
+     47 postgres:postgres
      46 root:victoria
      46 root:uucp
      46 root:testuser
@@ -1045,6 +1046,7 @@
      46 root:h123445
      46 root:frbgtnhymju
      46 root:firefox
+     46 root:fax
      46 root:difficulty
      46 root:dg10!#%#%
      46 root:ddd!@#$%^&
@@ -1082,7 +1084,6 @@
      46 root:123123qweqwe
      46 root:0147
      46 root:000000a
-     46 postgres:postgres
      45 test:12345
      45 root:zxasqw12
      45 root:zaqxswcde
@@ -1107,7 +1108,6 @@
      45 root:jeremy
      45 root:hadoop@123
      45 root:forever
-     45 root:fax
      45 root:enkj!@#$%^&
      45 root:database
      45 root:danabc123
@@ -1260,6 +1260,7 @@
      41 test:admin
      41 root:testpass
      41 root:test@123
+     41 root:sshd
      41 root:setup
      41 root:root@1234
      41 root:jjwlkj
@@ -1288,12 +1289,12 @@
      41 root:!@#$%^&*
      41 mysql:mysql
      41 mysql:123456
+     41 ftp:ftp
      40 vyatta:vyatta
      40 user:test
      40 user:qwerty
      40 root:unix
      40 root:stones
-     40 root:sshd
      40 root:root123!@#
      40 root:P@$$w0rd
      40 root:michael
@@ -1320,7 +1321,6 @@
      40 root:2020
      40 root:1981
      40 root:!@#$%^&*(
-     40 ftp:ftp
      40 admin:guest
      39 test:test123
      39 root:xxx
@@ -1385,7 +1385,9 @@
      38 root:123456123456
      38 root:12312300
      38 root:100200300
+     38 monitor:monitor
      38 anonymous:anonymous
+     37 testuser:testuser
      37 sshd:sshd
      37 root:zxcvzxcv
      37 root:vizxv
@@ -1412,8 +1414,8 @@
      37 root:a12345678
      37 root:34erdfcv
      37 nagios:nagios
-     37 monitor:monitor
-     36 testuser:testuser
+     37 admin:pass
+     37 :
      36 root:zaq1@wsx
      36 root:woofwoof
      36 root:welcome@123
@@ -1463,12 +1465,13 @@
      36 root:2w3e4r5t
      36 root:1qazZAQ!
      36 root:12345!@#$%
-     36 :
+     36 default:default
      35 user1:user1
      35 ubnt:password
      35 ts3:ts3
      35 tech:tech
      35 root:zxcvbnm123
+     35 root:zaq1@WSX
      35 root:wordpass
      35 root:william
      35 root:transfer
@@ -1509,18 +1512,18 @@
      35 root:2164823977newpass123
      35 root:1a2b3c4d5e
      35 root:1234qwerty
-     35 default:default
+     35 public:public
      35 apache:apache
-     35 admin:pass
+     34 test:password
      34 root:zzz
      34 root:zxiptv
      34 root:zaqwsxcde
-     34 root:zaq1@WSX
      34 root:yankees
      34 root:wireless
      34 root:weather
      34 root:toortoor
      34 root:summer
+     34 root:sss
      34 root:simon
      34 root:siemens
      34 root:server123456
@@ -1581,8 +1584,7 @@
      34 root:1234QWERasdf
      34 root:0okmnji9
      34 root:010101
-     34 public:public
-     33 test:password
+     33 zabbix:zabbix
      33 root:zxin10
      33 root:zxcasdqwe
      33 root:XK(025)uma
@@ -1605,7 +1607,6 @@
      33 root:svn
      33 root:sugipula
      33 root:stack
-     33 root:sss
      33 root:spider
      33 root:sophie
      33 root:sistema
@@ -1708,8 +1709,9 @@
      33 root:$
      33 root:!@#!@#!@#
      33 root:^%$#@!
+     33 operator:operator
      33 client:client
-     32 zabbix:zabbix
+     32 test:test1234
      32 sales:sales
      32 root:zorro
      32 root:yahoo
@@ -1848,12 +1850,11 @@
      32 root:11112222
      32 root:100
      32 root:,.
-     32 operator:operator
      32 nobody:nobody
      32 jenkins:jenkins
      31 user:user123
-     31 test:test1234
      31 root:zxcv
+     31 root:zaq1xsw2cde3
      31 root:xx
      31 root:wombat
      31 root:winter
@@ -1966,13 +1967,13 @@
      31 PlcmSpIp:PlcmSpIp
      31 info:info
      31 ftpuser:asteriskftp
+     31 david:david
      31 backup:backup
      31 0:0
      30 uucp:uucp
      30 student:student
      30 root:zjDX
      30 root:Zhejianglt
-     30 root:zaq1xsw2cde3
      30 root:wuhusihairy10
      30 root:web@123
      30 root:usuario
@@ -1987,6 +1988,7 @@
      30 root:qwer12345
      30 root:puppet
      30 root:pikachu
+     30 root:password321
      30 root:PassWord
      30 root:pass999
      30 root:p@55word
@@ -2035,6 +2037,7 @@
      30 root:9999999
      30 root:852456
      30 root:5555555
+     30 root:5454klkjl
      30 root:3.14159
      30 root:252525
      30 root:1qazxsw23
@@ -2047,6 +2050,7 @@
      30 root:123@aa
      30 root:123123abc
      30 root:11221122
+     30 root:10086
      30 root:0o9i8u7y
      30 root:++++++
      30 root:@#&*(
@@ -2054,21 +2058,21 @@
      30 oracle:123456
      30 ftp:ftpuser
      30 demo:demo
-     30 david:david
      30 administrator:administrator
      30 admin:abc123
      29 supervisor:zyad1234
      29 root:zzzzz
      29 root:zxm10
+     29 root:zxcdsaqwe321
      29 root:zl0passw0rd
      29 root:ZAQ!xsw2
      29 root:system32
      29 root:sysop
      29 root:sync
      29 root:sor123in
+     29 root:share
      29 root:rootrootroot
      29 root:root!@#$
-     29 root:password321
      29 root:Password12
      29 root:pandora
      29 root:only
@@ -2115,7 +2119,6 @@
      29 root:9935net
      29 root:8uhb9ijn
      29 root:555
-     29 root:5454klkjl
      29 root:4128
      29 root:321123
      29 root:1qaz2wsx@123
@@ -2132,7 +2135,6 @@
      29 root:123234
      29 root:123123@abc
      29 root:123@123abc
-     29 root:10086
      29 ftp:ftp123
      29 admin:administrator
      29 admin:12345678
@@ -2141,13 +2143,11 @@
      28 test1:test1
      28 root:zxczxc
      28 root:zxcvb
-     28 root:zxcdsaqwe321
      28 root:zhangyan7tian
      28 root:zaqwsx
      28 root:walter
      28 root:thunder
      28 root:stupid
-     28 root:share
      28 root:server2
      28 root:saba7861
      28 root:qwe!@#
@@ -2200,6 +2200,7 @@
      28 alex:alex
      28 123:123
      27 webmaster:webmaster
+     27 usuario:123456
      27 test2:test2
      27 svn:svn
      27 support:123456
@@ -2219,6 +2220,7 @@
      27 root:qazwsx1234
      27 root:QAZwsx123
      27 root:!qaz@wsx
+     27 root:P@$$word
      27 root:p@ssword1
      27 root:P@ssword
      27 root:ppp
@@ -2266,16 +2268,15 @@
      27 root:123@!@#
      27 root:1020304050
      27 guest:123456
+     27 ftp:123456
      27 daniel:daniel
      27 administrator:123456
      27 admin:
-     26 usuario:123456
      26 test1:test
      26 root:start123
      26 root:snake
      26 root:!QAZXSW@
      26 root:qaz123456
-     26 root:P@$$word
      26 root:P@ssword1
      26 root:passworb1314
      26 root:passworb1234
@@ -2316,7 +2317,6 @@
      26 master:master
      26 guest:12345
      26 ftpuser:123
-     26 ftp:123456
      26 admin:1q2w3e4r
      26 a:a
      25 webadmin:webadmin
@@ -2325,6 +2325,7 @@
      25 support:1234
      25 steve:steve
      25 steam:steam
+     25 scan:scan
      25 root:zaq12wsxcde3
      25 root:wordpress
      25 root:w3lc0m3
@@ -2332,6 +2333,7 @@
      25 root:rola
      25 root:rabbit
      25 root:powerpc
+     25 root:passpass
      25 root:louise
      25 root:login123
      25 root:ll
@@ -2366,9 +2368,10 @@
      25 manager:manager
      25 admin:123456789
      25 admin:123321
+     25 admin:111111
+     25 admin:1
      24 user:password123
      24 sysadm:sysadm
-     24 scan:scan
      24 root:zxcv123
      24 root:zxc123456
      24 root:turtle
@@ -2385,7 +2388,6 @@
      24 root:password0000
      24 root:PASSWORD
      24 root:passwd1234
-     24 root:passpass
      24 root:pass1
      24 root:P@55word
      24 root:P4ssw0rd
@@ -2447,8 +2449,6 @@
      24 admin:4321
      24 admin:1234567890
      24 admin:123123
-     24 admin:111111
-     24 admin:1
      23 username:password
      23 user:111111
      23 test:qwerty
@@ -2596,6 +2596,7 @@
      21 root:root@root
      21 root:rooter
      21 root:root_123
+     21 root:!@#$qwerASDF
      21 root:qazwsxebcsa
      21 root:qazwsxebc
      21 root:qazwsxeb
@@ -2675,6 +2676,7 @@
      21 111111:$passwor
      21 1111:1111
      20 usuario:test
+     20 usuario:123
      20 user:public
      20 USERID:PASSW0RD
      20 user1:1234
@@ -2702,7 +2704,6 @@
      20 root:root2
      20 root:roberto
      20 root:qwerasdfzxcv
-     20 root:!@#$qwerASDF
      20 root:qwe123!
      20 root:qpwoeiruty
      20 root:qimo118com
@@ -2860,7 +2861,6 @@
      19 usuario:qwerty
      19 usuario:guest
      19 usuario:admin
-     19 usuario:123
      19 user:ubnt
      19 user:toor
      19 user:guest
@@ -3930,6 +3930,7 @@
      18 root:123@AbcAbc
      18 root:123Abcabc
      18 root:123abc!@#
+     18 root:1236
      18 root:1234qweasz
      18 root:1234asdfQWER
      18 root:1234abcd!
@@ -3958,6 +3959,7 @@
      17 root:zxcvqwer
      17 root:zxcv!@
      17 root:zhu88jie
+     17 root:zaq!@wsx
      17 root:yvette
      17 root:YunNanLT
      17 root:YsoRim2oByGviuPGD670mAr
@@ -4191,6 +4193,7 @@
      17 root:gamebean
      17 root:gading
      17 root:Fujitsu
+     17 root:freenas
      17 root:Freedom1
      17 root:fragile
      17 root:flsnrtm
@@ -4463,7 +4466,6 @@
      17 root:123ewqasd
      17 root:123asd456asd
      17 root:123@Aa
-     17 root:1236
      17 root:1234asdfzxcv
      17 root:1234ASDFqwer
      17 root:123456zxcvbn
@@ -4521,7 +4523,6 @@
      16 root:zxcvasdfqwer
      16 root:zte@epon
      16 root:zhangyan
-     16 root:zaq!@wsx
      16 root:ZAQ1XSW2CDE3
      16 root:z1x2c3v4b5
      16 root:z1
@@ -4728,11 +4729,11 @@
      16 root:getmoney1
      16 root:german
      16 root:ganesh123
-     16 root:freenas
      16 root:ford
      16 root:flzx3qcysyhl9t
      16 root:FlIECHp0R
      16 root:FlIECHp0
+     16 root:fld
      16 root:fivranne
      16 root:fire
      16 root:expert
@@ -5103,8 +5104,10 @@
      15 root:!@#$qwerasdf
      15 root:qwer@123456
      15 root:qwer123$%^
+     15 root:!Q@W#E$R
      15 root:qwer!@#
      15 root:!@#qwe!@#qwe
+     15 root:qweasdzxc123!@#
      15 root:qwe123qwe123
      15 root:qwe123!@#QWE
      15 root:!@#qwe123qwe
@@ -5206,7 +5209,6 @@
      15 root:gary
      15 root:funshion
      15 root:ftpuser@123
-     15 root:fld
      15 root:Explorer
      15 root:explorer
      15 root:emily
@@ -5453,6 +5455,8 @@
      15 root:123123412345
      15 root:1231234
      15 root:!#$123
+     15 root:110110110
+     15 root:10jqka
      15 root:0wnzr0x1
      15 root:03718ge5
      15 root:0.123456789
@@ -5558,6 +5562,7 @@
      14 Sweex:Mysweex
      14 svin:svin
      14 root:zxcvasdf
+     14 root:zxc321
      14 root:zhaojia
      14 root:zghiole
      14 root:zenith
@@ -5625,9 +5630,7 @@
      14 root:qwer123.com
      14 root:qwer@12345
      14 root:qwer123123
-     14 root:!Q@W#E$R
      14 root:qwedcxzas
-     14 root:qweasdzxc123!@#
      14 root:qweasdqwe123
      14 root:qweasdqwe!@#
      14 root:!@#qweasdqwe
@@ -5863,8 +5866,6 @@
      14 root:1104
      14 root:110120130
      14 root:110112
-     14 root:110110110
-     14 root:10jqka
      14 root:!@!#$%^&*()1
      14 root:0racle9i
      14 root:0racle9
@@ -5900,7 +5901,6 @@
      13 server:server
      13 root:zxcv4321
      13 root:ZXCV
-     13 root:zxc321
      13 root:zxc1234
      13 root:zx12zx
      13 root:Zmeu
@@ -6190,6 +6190,7 @@
      12 root:qwerty@123123
      12 root:qwert@123123
      12 root:qwer@123123
+     12 root:!Q@W#E
      12 root:qwe!@#$%^
      12 root:qq123.com
      12 root:qpalzm
@@ -6420,7 +6421,6 @@
      11 root:qwer@123321
      11 root:Qwer!@#$%^
      11 root:Qwer!@#$%
-     11 root:!Q@W#E
      11 root:qazxsw2
      11 root:p@ss1234
      11 root:pony123
@@ -6574,6 +6574,7 @@
      11 root:11aa22bb
      11 root:0okm(IJN
      11 minecraft:minecraft
+     11 michael:michael
      11 info:123456
      11 cyrus:cyrus
      11 admin:P@ssw0rd
@@ -6726,7 +6727,7 @@
      10 prueba:prueba
      10 oracle:oracle123
      10 openvpn:openvpn
-     10 michael:michael
+     10 odoo:odoo
      10 jboss:qwe@123
      10 hadoop:123456
      10 daemon:daemon
@@ -6901,7 +6902,6 @@
       9 postmaster:postmaster
       9 postgres:test
       9 openbravo:openbravo
-      9 odoo:odoo
       9 matt:matt
       9 jboss:jboss123
       9 hadoop:hadoop123
@@ -6919,12 +6919,15 @@
       8 ubuntu:123456
       8 ubuntu:111111
       8 test:test@123
+      8 test5:test5
       8 test3:test3
+      8 test:12345678
       8 test:123123
       8 system:system
       8 sysadmin:sysadmin
       8 support:qwe@123
       8 staff:staff
+      8 squid:123456
       8 root:ZGjyc6Jazr37AQA4FXHEbzDyu
       8 root:w79w9riq
       8 root:unicorn
@@ -7059,7 +7062,9 @@
       8 admin:wubao
       8 admin:nimda
       8 administrator:admin
+      7 zabbix:123qwe
       7 www:1q2w3e4r
+      7 vps:vps
       7 vpn:vpn
       7 usuario:abc@123
       7 user:user@123
@@ -7068,10 +7073,7 @@
       7 test:qwe@123
       7 teste:teste
       7 test8:test8
-      7 test5:test5
-      7 test:12345678
       7 suporte:suporte
-      7 squid:123456
       7 RPM:RPM
       7 root:zysjk)#@)@scuta.cn
       7 root:woody
@@ -7230,27 +7232,29 @@
       7 qhsupport:password
       7 qhsupport:123456
       7 postfix:postfix
+      7 phion:password
       7 office:office
       7 mysql:qwe@123
       7 mysql:mysql123
       7 max:max
       7 jboss:123456
       7 informix:123456
+      7 ftpuser:1
       7 desktop:desktop
       7 data:data
       7 centos:centos
       7 cactiuser:cactiuser
       7 avis:1234
+      6 zabbix:qwe@123
       6 zabbix:abc123
       6 zabbix:1q2w3e4r
-      6 zabbix:123qwe
       6 zabbix:1234
+      6 zabbix:123
       6 xbox:xbox
       6 xbmc:xbmc
       6 webmaster:1234
       6 weblogic:weblogic123
       6 vyatta:123456
-      6 vps:vps
       6 user2:user2
       6 user1:password
       6 ubuntu:Abc123
@@ -7309,6 +7313,7 @@
       6 root:qua8GLPogUMoy6
       6 root:QAZ@wsx
       6 root:!QAZ2wsx3edc
+      6 root:P@$$w0rd@123
       6 root:P@ssword1!
       6 root:postgres@123
       6 root:plus
@@ -7475,11 +7480,12 @@
       6 qhsupport:test
       6 qhsupport:abc@123
       6 prueba:123456
+      6 proxy:proxy
       6 postgres:postgres123
       6 postgres:password
       6 pi:pi
-      6 phion:password
       6 peter:peter
+      6 oracle:oracle1234
       6 oracle:123qwe
       6 newsletter:newsletter
       6 named:named
@@ -7501,8 +7507,8 @@
       6 gpadmin:gpadmin
       6 gast:gast
       6 ftpuser:password
+      6 ftpuser:ftpuser@123
       6 ftpuser:abc@123
-      6 ftpuser:1
       6 ftp:qwer1234
       6 firebird:123456
       6 dummy:dummy
@@ -7515,18 +7521,18 @@
       6 applmgr:123456
       6 admin:secure
       6 admin:Password
+      6 admin:Abc123
       5 zimbra:zimbra123
       5 zimbra:Abc123
       5 zimbra:1q2w3e4r
       5 zimbra:12345678
-      5 zabbix:qwe@123
       5 zabbix:password123
-      5 zabbix:123
       5 zabbix:111111
       5 vnc:vnc123
       5 vnc:123456
       5 vmail:vmail
       5 uucp:
+      5 usuario:qwe@123
       5 user:wubao
       5 user:@User1234
       5 username:username
@@ -7535,11 +7541,14 @@
       5 unknown:unknown
       5 ubuntu:Qwerty1
       5 ubuntu:P@ssw0rd
+      5 ubuntu:1
       5 ubnt:123456
       5 test:test1
+      5 test:qwer1234
       5 test:p@ssw0rd
       5 test:Password
       5 tester:12345
+      5 test:abc@123
       5 test:123qwe
       5 test:123456789
       5 teamspeak3:teamspeak3
@@ -7551,6 +7560,7 @@
       5 soporte:soporte
       5 shoutcast:shoutcast
       5 server:123456
+      5 scaner:password
       5 samp:samp
       5 sales:sales123
       5 root:zaqwsxcderfv
@@ -7578,7 +7588,6 @@
       5 root:!qaz@wsx#edc
       5 root:q1w2e3r4t5y6u7i8o9p0
       5 root:p@$$wOrd
-      5 root:P@$$w0rd@123
       5 root:P@ssword!
       5 root:p@sswd123
       5 root:P@ssw0rds
@@ -7686,20 +7695,20 @@
       5 root:19910306
       5 root:19900408
       5 root:1911
+      5 root:123qwe@
       5 root:121121
       5 root:0p3nsh3ll
       5 root:091138
       5 root:^
       5 redhat:redhat
+      5 qhsupport:qwer1234
       5 qhsupport:123
-      5 proxy:proxy
       5 prova:prova
       5 pos:123456
       5 pi:admin
       5 park:park
       5 oracle:qwer1234
       5 oracle:Password
-      5 oracle:oracle1234
       5 oracle:abc@123
       5 oracle:111111
       5 openbravo:openbravo123
@@ -7708,6 +7717,7 @@
       5 notes:notes
       5 nginx:nginx
       5 nagios:test
+      5 nagios:Qwerty1
       5 nagios:nagios@123
       5 nagios:1q2w3e4r
       5 nagios:123
@@ -7727,6 +7737,7 @@
       5 john:123456
       5 jira:jira
       5 jboss:1q2w3e4r
+      5 james:james
       5 inventory:inventory
       5 icinga:icinga
       5 httpd:httpd
@@ -7735,8 +7746,11 @@
       5 hadoop:123qwe
       5 hadoop:12345678
       5 gnats:123456
+      5 ftpuser:Password
       5 ftpuser:ftpuser1234
-      5 ftpuser:ftpuser@123
+      5 ftp:password
+      5 ftp:12345
+      5 ftp:1
       5 foobar:foobar
       5 fax:fax
       5 eric:eric
@@ -7760,6 +7774,7 @@
       5 apache:123456
       5 alex:123456
       5 agent:12345
+      5 admin:zaq12wsx
       5 admin:test1234
       5 admin:sshd
       5 admin:openelec
@@ -7767,7 +7782,6 @@
       5 administrateur:administrateur
       5 admin:heslo
       5 admin:admin@123
-      5 admin:Abc123
       5 admin:abc@123
       5 a:
       5 123321:111111
@@ -7804,7 +7818,6 @@
       4 vendeg:vendeg
       4 vagrant:123456
       4 usuario:usuario123
-      4 usuario:qwe@123
       4 usuario:password
       4 username:123456
       4 user:12345678
@@ -7818,13 +7831,11 @@
       4 ubuntu:123qwe
       4 ubuntu:1234
       4 ubuntu:123
-      4 ubuntu:1
+      4 ubnt:ubnt1
       4 ts3bot:ts3bot
       4 thomas:thomas
-      4 test:qwer1234
       4 test:password1
       4 tester:tester
-      4 test:abc@123
       4 test:abc123
       4 test4:test4
       4 test:1qaz2wsx
@@ -7844,7 +7855,7 @@
       4 shipping:shipping
       4 share:share
       4 security:security
-      4 scaner:password
+      4 sconsole:12345
       4 sam:sam
       4 samba:samba
       4 root:zxcvbnm,./
@@ -7928,6 +7939,7 @@
       4 root:qmfltmqjs!@#$
       4 root:!qaz@WSX
       4 root:QAZ2wsx
+      4 root:QAZ1231qaz!
       4 root:qa
       4 root:q1w2e3!@#
       4 root:punepassss
@@ -7944,6 +7956,7 @@
       4 root:PASSWORD123
       4 root:password123!
       4 root:Passw0rd44
+      4 root:passs
       4 root:Pass123456
       4 root:package
       4 root:P4sswOrd
@@ -8102,7 +8115,6 @@
       4 root:1qaz@2wsx
       4 root:19950614
       4 root:135246
-      4 root:123qwe@
       4 root:12345@abc
       4 root:12345aa
       4 root:1201
@@ -8111,7 +8123,6 @@
       4 reception:reception
       4 rebecca:rebecca
       4 qhsupport:Qwerty1
-      4 qhsupport:qwer1234
       4 qhsupport:qwe@123
       4 pub:pub
       4 prueba:prueba123
@@ -8136,8 +8147,8 @@
       4 oracle2:oracle2
       4 notes2:notes2
       4 nologin:muiefazan123456
-      4 nagios:Qwerty1
       4 nagios:qwe@123
+      4 nagios:password
       4 nagios:nagios123
       4 nagios:abc123
       4 nagios:123456
@@ -8149,6 +8160,7 @@
       4 mysql:abc@123
       4 mysql:123123
       4 movies:movies123
+      4 midgear:midgear
       4 mfs:mfs
       4 mc:mc
       4 market:market123
@@ -8165,10 +8177,11 @@
       4 jessica:jessica
       4 jenkins:jenkins@123
       4 jboss:jboss1234
+      4 jboss:Abc123
       4 jboss:abc@123
       4 jboss:abc123
       4 jboss:123123
-      4 james:james
+      4 jboss:1
       4 internet:internet
       4 halt:halt
       4 hadoop:hadoop@123
@@ -8183,18 +8196,18 @@
       4 games:games
       4 gabriel:gabriel
       4 ftpuser:P@ssw0rd
-      4 ftpuser:Password
       4 ftp_user:ftp_user
+      4 ftpuser:ftppass
       4 ftp_user:123456
       4 ftp_test:ftp_test
+      4 ftp_test:12345
       4 ftp_test:1234
-      4 ftp:password
+      4 ftp:password123
       4 ftpadmin:ftpadmin
-      4 ftp:12345
       4 ftp:1234
-      4 ftp:1
       4 freebsd:freebsd
       4 frank:frank
+      4 firebird:firebird
       4 eric:eric123
       4 dspace:dspace
       4 deploy:qwe123
@@ -8226,9 +8239,9 @@
       4 amsftp:amsftp
       4 ali:ali
       4 alan:alan
-      4 admin:zaq12wsx
       4 admin:Qwerty1
       4 admin:P@ssw0rd!
+      4 admin:p@ssw0rd
       4 admin:letmein
       4 administrador:administrador
       4 admin1:admin1
@@ -8242,6 +8255,7 @@
       3 zimeip:zimeip
       3 zimbra:zimbra1234
       3 zimbra:123qwe
+      3 zimbra:123456
       3 zimbra:12345
       3 zhenhui:zhenhui
       3 z:Cprogramming
@@ -8257,6 +8271,7 @@
       3 www-data:123456
       3 www-data:1234
       3 www:Abc123
+      3 www:abc@123
       3 www2:www2
       3 www1:www1
       3 www:123123
@@ -8289,7 +8304,6 @@
       3 ubuntu:abc@123
       3 ubuntu:abc123
       3 ubuntu:1234567
-      3 ubnt:ubnt1
       3 ubnt:qwerty
       3 ubnt:123456789
       3 tss:tss
@@ -8348,9 +8362,9 @@
       3 shutdown:shutdown
       3 shenleiyu:shenleiyu##1%%&&!
       3 setup:1234
+      3 service:service42
       3 server:password
       3 sergio:sergio
-      3 sconsole:12345
       3 scaner:scaner123
       3 scaner:scaner
       3 sara:sara
@@ -8492,7 +8506,6 @@
       3 root:!qaz3wsx
       3 root:!qaz2wsx3edc
       3 root:QAZ2WSX
-      3 root:QAZ1231qaz!
       3 root:qaz123$
       3 root:qaz123!@
       3 root:qaz!@#
@@ -8542,7 +8555,6 @@
       3 root:Passwd12
       3 root:passwd12#$
       3 root:passwd!@#
-      3 root:passs
       3 root:pass!@#456
       3 root:Pass@123456
       3 root:Pass12345
@@ -8954,6 +8966,7 @@
       3 qhsupport:qhsupport@123
       3 qhsupport:P@ssw0rd
       3 qhsupport:abc123
+      3 qhsupport:123qwe
       3 qhsupport:12345
       3 qhsupport:1
       3 postgres:qwerty
@@ -8966,10 +8979,12 @@
       3 pi:raspberry123
       3 php:php
       3 phion:phion123
+      3 phion:123456
       3 philip:philip
       3 paul:paul
       3 patricia:patricia
       3 ovhuser:ovhuser
+      3 oracle:Qwerty1
       3 oracle:oracle@123
       3 oracle:kennwort
       3 oracle:12345678
@@ -8991,7 +9006,6 @@
       3 nas:nas
       3 nagios:y3Yj61jBtiKE
       3 nagiosuser:nagiosuser
-      3 nagios:password
       3 nagios:nagios@1234
       3 nagios:123123
       3 nagios:1
@@ -9009,7 +9023,6 @@
       3 mongodb:mongodb
       3 minecraft:minecraft123
       3 minecraft:mine
-      3 midgear:midgear
       3 michelle:michelle
       3 menu:menu
       3 max:max123
@@ -9041,8 +9054,8 @@
       3 john:john123
       3 joe:joe
       3 jboss:test
-      3 jboss:Abc123
-      3 jboss:1
+      3 jboss:P@ssw0rd
+      3 jboss:jboss@1234
       3 javier:javier
       3 java:java
       3 janine:janine
@@ -9078,25 +9091,25 @@
       3 ftpuser:Muklesr0x!221845
       3 ftpuser:ftpuser@1234
       3 ftp_user:ftp_user123
-      3 ftpuser:ftppass
       3 ftpuser:ftp
+      3 ftpuser:Abc123
       3 ftpuser:12345678
       3 ftpuser:1234567
+      3 ftpuser:123123
       3 ftpuser:111111
       3 ftp_test:ftp_test@123
-      3 ftp_test:12345
+      3 ftp_test:123456
       3 ftp:Qwerty1
       3 ftp:qwerty
       3 ftp:qwe@123
       3 ftp:P@ssw0rd
-      3 ftp:password123
       3 ftpguest:ftpguest
       3 ftp:ftp1234
+      3 ftp:ftp@123
       3 ftp:abc123
       3 ftp:123123
       3 ftp:111111
       3 force:force
-      3 firebird:firebird
       3 felipe:felipe
       3 fedora:fedora
       3 fatimac:fatimac
@@ -9181,7 +9194,6 @@
       3 admin:smcadmin
       3 admins:admins
       3 admin:qwer1234
-      3 admin:p@ssw0rd
       3 admin:P@55w0rd!
       3 admin:mordor
       3 admin:goautodial
@@ -9205,7 +9217,6 @@
       2 zimbra:test
       2 zimbra:qwer1234
       2 zimbra:password
-      2 zimbra:123456
       2 zimbra:1234
       2 zimbra:123
       2 zimbra:111111
@@ -9216,6 +9227,7 @@
       2 zabbix:zabbix1234
       2 zabbix:zabb1x
       2 zabbix:test
+      2 zabbix:Qwerty1
       2 zabbix:qwerty
       2 zabbix:qwe123
       2 zabbix:p@ssw0rd
@@ -9250,7 +9262,6 @@
       2 www-data:www-data123
       2 www-data:12345678
       2 www:A@ditzu123
-      2 www:abc@123
       2 www:abc123
       2 www:123qwe
       2 write:private
@@ -9299,6 +9310,7 @@
       2 user:ubuntu
       2 user:tivonpw
       2 user:RPM
+      2 user:!root
       2 user:qwe@123
       2 user:paul
       2 user:pass123
@@ -9325,6 +9337,8 @@
       2 ubuntu:test123
       2 ubuntu:root@123
       2 ubuntu:qwerty
+      2 ubuntu:qwe@123
+      2 ubuntu:p@ssw0rd
       2 ubuntu:password1
       2 ubuntu:1q2w3e4r
       2 ubuntu:123qwe!@#
@@ -9448,6 +9462,7 @@
       2 support:qwerty
       2 support:admin123
       2 support:123456789
+      2 support:1
       2 suporte:123456
       2 suporte:1234
       2 suporte:123
@@ -9499,7 +9514,6 @@
       2 shane:shane123
       2 shane:123456
       2 shah:shah
-      2 service:service42
       2 service:1234
       2 Server:Server
       2 serverpilot:serverpilot
@@ -10517,6 +10531,7 @@
       2 root:droopy
       2 root:DRft6548
       2 root:dragoste
+      2 root:dottie
       2 root:dongdong123
       2 root:don
       2 root:dominik1
@@ -10889,7 +10904,6 @@
       2 qhsupport:qhsupport123
       2 qhsupport:p@ssw0rd
       2 qhsupport:password123
-      2 qhsupport:123qwe
       2 qhsupport:111111
       2 pwrchute:pwrchute
       2 putty:putty
@@ -10937,7 +10951,6 @@
       2 pi:changeme
       2 pi:1
       2 phpbb:phpbb
-      2 phion:123456
       2 phion:123
       2 peuser:userpe
       2 peter:peter123
@@ -10956,8 +10969,8 @@
       2 orange:orange
       2 oracle:tonyeadmin
       2 oracles:ClepSi
-      2 oracle:Qwerty1
       2 oracle:qwe@123
+      2 oracle:P@ssw0rd
       2 oracle:p@ssw0rd
       2 oracle:oracle@1234
       2 oracle:Oracle123
@@ -11023,6 +11036,7 @@
       2 mysql:test
       2 mysql:mysql@1234
       2 mysqld:Holycow4Ever
+      2 mysql:Abc123
       2 mysql:321
       2 mysql:1qaz2wsx#EDC
       2 mysql:12345678
@@ -11141,8 +11155,6 @@
       2 jeff:jeff123
       2 jcoffey:jcoffey
       2 jboss:qwer1234
-      2 jboss:P@ssw0rd
-      2 jboss:jboss@1234
       2 jboss:123qwe
       2 jboss:123
       2 jboss:111111
@@ -11238,16 +11250,12 @@
       2 galaxy:galaxy
       2 ftpuser:qwe@123
       2 ftpuser:p@ssw0rd
-      2 ftpuser:Abc123
       2 ftpuser:abc123
       2 ftpuser:1q2w3e4r
       2 ftpuser1:ftpuser1
       2 ftpuser:123qwe
-      2 ftpuser:123123
       2 ftp_test:ftp_test123
-      2 ftp_test:123456
       2 ftp:ftp12345
-      2 ftp:ftp@123
       2 ftp:ftp01
       2 ftpd:Hehehe143
       2 ftpd:ftpd
@@ -11493,12 +11501,14 @@
       2 admin:password1
       2 admin:Passw0rd
       2 admin:pass1234
+      2 admin:pass123
       2 admin:!nter@P1n00
       2 admin:mustang
       2 admin:michelangelo
       2 admin:lavidaloca2112
       2 Administrator:Vision2
       2 Administrator:root
+      2 Administrator:letmein
       2 Administrator:changeme
       2 ADMINISTRATOR:ADMINISTRATOR
       2 administrator:4dm1n1str4t0r
@@ -11592,6 +11602,7 @@
       1 znc-admin:1234
       1 Zmeu:password
       1 zini:zini
+      1 zimbra:zimbra
       1 zimbra:qwe@123
       1 zimbra:P@ssw0rd
       1 zimbra:p@ssw0rd
@@ -11638,7 +11649,6 @@
       1 zachary:zachary
       1 zabix:agent
       1 zabbix:xibbaz
-      1 zabbix:Qwerty1
       1 zabbix:Qwerty
       1 zabbix:lunaealba
       1 zabbix:enisenes12
@@ -12359,7 +12369,6 @@
       1 users:users
       1 user:supervisor
       1 user:superman
-      1 user:!root
       1 [user]:root
       1 user:raspberry123
       1 user:raspberry
@@ -12480,8 +12489,6 @@
       1 ubuntu:vertrieb
       1 ubuntu:ubntu
       1 ubuntu:temppwd
-      1 ubuntu:qwe@123
-      1 ubuntu:p@ssw0rd
       1 ubuntu:enisenes12
       1 ubuntu:changeme
       1 ubuntu1:ubuntu
@@ -13258,7 +13265,6 @@
       1 support1:a
       1 support:1234567890
       1 support:12345678
-      1 support:1
       1 suport:suport
       1 suporte:password
       1 supervisor:taspberry
@@ -21839,7 +21845,6 @@
       1 root:doug
       1 root:doublestar
       1 root:double
-      1 root:dottie
       1 root:dotnet
       1 root:dorutzu00
       1 root:dorris
@@ -26324,7 +26329,6 @@
       1 oracle:qwert
       1 oracle:q1w2e3r4t5
       1 oracle:q
-      1 oracle:P@ssw0rd
       1 oracle:password123
       1 oracle:Passw0rd
       1 oracle:passw0rd
@@ -26906,7 +26910,6 @@
       1 mysql:akiko
       1 mysql:accept
       1 mysql:abcdefghijklmnopq
-      1 mysql:Abc123
       1 mysql:5
       1 mysql:4r5t6y
       1 mysql:3e4r5t
@@ -31332,7 +31335,6 @@
       1 administrator:Password1
       1 Administrator:password
       1 administrator:Passw0rd
-      1 Administrator:letmein
       1 Administrator:ganteng
       1 administrator:dylan
       1 Administrator:CPE.hgw.12
@@ -31532,6 +31534,7 @@
       1 addona:addona
       1 aDDmin:appmin
       1 aDDmin:aDpmin
+      1 adDmin:adpmin
       1 addiego:addiego
       1 addict:addict
       1 add:add
